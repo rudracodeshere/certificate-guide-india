@@ -144,7 +144,7 @@
    "type": "section",
    "title": "Count your dates",
    "id": "count",
-   "html": "<p>Use the <a href=\"../is-my-certificate-late-calculator/\">is my certificate late calculator</a> to get the due date and the last day for a first appeal. The <a href=\"../certificate-time-limits-india/\">guide to certificate time limits</a> explains how the clock works. Applying for residence proof too? See the <a href=\"../domicile-certificate-maharashtra/\">domicile certificate guide</a>.</p>"
+   "html": "<p>Use the <a href=\"../is-my-certificate-late-calculator/\">is my certificate late calculator</a> to get the due date and the last day for a first appeal. The <a href=\"../certificate-time-limits-india/\">guide to certificate time limits</a> explains how the clock works. Applying for residence proof too? See the <a href=\"../domicile-certificate-maharashtra/\">domicile certificate guide</a>. Need caste proof as well? See the <a href=\"../caste-certificate-maharashtra/\">caste certificate guide</a>.</p>"
   }
  ],
  "templates": [
@@ -156,6 +156,7 @@
  ],
  "related": [
   "domicile-certificate-maharashtra",
+  "caste-certificate-maharashtra",
   "is-my-certificate-late-calculator",
   "certificate-time-limits-india",
   "maharashtra",

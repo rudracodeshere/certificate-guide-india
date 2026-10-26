@@ -148,7 +148,7 @@
    "type": "section",
    "title": "Count your dates",
    "id": "count",
-   "html": "<p>Use the <a href=\"../is-my-certificate-late-calculator/\">is my certificate late calculator</a> to get the due date and the last day for a first appeal. The <a href=\"../certificate-time-limits-india/\">guide to certificate time limits</a> explains how the clock works. Need proof of income as well? See the <a href=\"../income-certificate-maharashtra/\">income certificate guide</a>.</p>"
+   "html": "<p>Use the <a href=\"../is-my-certificate-late-calculator/\">is my certificate late calculator</a> to get the due date and the last day for a first appeal. The <a href=\"../certificate-time-limits-india/\">guide to certificate time limits</a> explains how the clock works. Need proof of income as well? See the <a href=\"../income-certificate-maharashtra/\">income certificate guide</a>. Need caste proof too? See the <a href=\"../caste-certificate-maharashtra/\">caste certificate guide</a>.</p>"
   }
  ],
  "templates": [
@@ -160,6 +160,7 @@
  ],
  "related": [
   "income-certificate-maharashtra",
+  "caste-certificate-maharashtra",
   "is-my-certificate-late-calculator",
   "certificate-time-limits-india",
   "maharashtra",

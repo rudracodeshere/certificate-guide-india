@@ -278,9 +278,10 @@ def render_hub(sec):
 PILLAR = "certificate-time-limits-india"
 
 HUB_DESC = {
-    "maharashtra": "Maharashtra certificates on Aaple Sarkar: income and domicile certificate documents, fees, the 15-day time limit and who hears your appeal.",
+    "maharashtra": "Maharashtra certificates on Aaple Sarkar: income, domicile and caste certificate documents, fees, official time limits and who hears your appeal.",
     "income-certificate": "Income certificate guides by state: documents, fee, the official time limit, who issues it and how to appeal if it is late. Official sources only.",
     "domicile-certificate": "Domicile certificate guides by state: documents, fee, the official time limit, who issues it and how to appeal if it is late. Official sources only.",
+    "caste-certificate": "Caste certificate guides by state: documents, affidavits, fee, the official time limit, who issues it and how to appeal if it is late.",
 }
 
 HUB_EXTRA = {
@@ -291,11 +292,12 @@ HUB_EXTRA = {
 <tr><th>Certificate</th><th>Time limit</th><th>Issued by</th><th>First appeal</th><th>Second appeal</th></tr>
 <tr><td>Age, Nationality and Domicile</td><td>15 days</td><td>Tahsildar</td><td>Sub-Divisional Officer</td><td>Additional Collector</td></tr>
 <tr><td>Income</td><td>15 days</td><td>Nayab Tahsildar</td><td>Tahsildar</td><td>Sub-Divisional Officer</td></tr>
-<tr><td>Caste</td><td>21 days</td><td>Sub-Divisional Officer or Deputy Collector</td><td>Additional Collector</td><td>Collector</td></tr>
+<tr><td><a href="../caste-certificate-maharashtra/">Caste</a></td><td>21 days (other official pages say 45 days)</td><td>Sub-Divisional Officer or Deputy Collector</td><td>Additional Collector</td><td>Collector</td></tr>
 <tr><td>Non Creamy Layer</td><td>21 days</td><td>Sub-Divisional Officer</td><td>Additional Collector</td><td>Collector</td></tr>
 <tr><td>Temporary Residence</td><td>7 days</td><td>Tahsildar</td><td>Sub-Divisional Officer</td><td>Collector</td></tr>
 <tr><td>Senior Citizen</td><td>7 days</td><td>Tahsildar</td><td>Sub-Divisional Officer</td><td>Additional Collector</td></tr>
 </table></div>
+<p>Caste certificate: the Aaple Sarkar caste service page, the Caste Certificate Rules, 2012 and some district pages say 45 days, not 21. The <a href="../caste-certificate-maharashtra/">caste certificate guide</a> shows every source and the appeal dates that fit both.</p>
 <p>Aaple Sarkar 24x7 citizen call centre: 1800 120 8040 (toll free), as published on the same page.</p>
 """
 }

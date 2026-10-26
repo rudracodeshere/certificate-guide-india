@@ -105,12 +105,13 @@
    "type": "section",
    "title": "Read the full guide",
    "id": "guides",
-   "html": "<p>Documents, fees and the appeal form are in the <a href=\"../income-certificate-maharashtra/\">income certificate guide</a> and the <a href=\"../domicile-certificate-maharashtra/\">domicile certificate guide</a>. For how time limits work in general, see <a href=\"../certificate-time-limits-india/\">certificate time limits in India</a>.</p>"
+   "html": "<p>Documents, fees and the appeal form are in the <a href=\"../income-certificate-maharashtra/\">income certificate guide</a> and the <a href=\"../domicile-certificate-maharashtra/\">domicile certificate guide</a>. For how time limits work in general, see <a href=\"../certificate-time-limits-india/\">certificate time limits in India</a>.</p><p>Caste certificates are not in the calculator yet, because official pages give two time limits, 21 and 45 days. The <a href=\"../caste-certificate-maharashtra/\">caste certificate guide</a> shows both and the appeal dates that fit both.</p>"
   }
  ],
  "related": [
   "income-certificate-maharashtra",
   "domicile-certificate-maharashtra",
+  "caste-certificate-maharashtra",
   "certificate-time-limits-india",
   "maharashtra"
  ],
