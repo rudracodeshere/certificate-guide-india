@@ -72,7 +72,7 @@ def layout(*, title, desc, canon_path, body, depth, jsonld=None, noindex=False, 
 <html lang="{SITE['language']}">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="viewport" content="width=device-width,initial-scale=1">{BING_META}
 <meta name="color-scheme" content="light dark">
 <title>{E(title)}</title>
 <meta name="description" content="{E(desc)}">
@@ -122,6 +122,8 @@ def link_sources(sources):
         li += (f'<li>{E(s["label"])}: <a href="{E(s["url"])}" rel="noopener">{E(s["url"])}</a> '
                f'(checked {fmt_date(s["checked"])})</li>')
     return f'<ul class="sources">{li}</ul>'
+
+BING_META = f'\n<meta name="msvalidate.01" content="{E(SITE["bing_site_auth"])}">' if SITE.get("bing_site_auth") else ""
 
 def render_block(b, page, depth):
     t = b["type"]

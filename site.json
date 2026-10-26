@@ -5,12 +5,49 @@
   "repo_url": "https://github.com/rudracodeshere/certificate-guide-india",
   "language": "en-IN",
   "sectors": [
-    {"slug": "maharashtra", "name": "Maharashtra", "h1": "Maharashtra certificates: documents, fees and time limits", "title": "Maharashtra certificates: fees and time limits", "blurb": "Certificates applied for on Aaple Sarkar, with the time limits notified under the Maharashtra Right to Public Services Act, 2015."},
-    {"slug": "income-certificate", "name": "Income certificate", "h1": "Income certificate guides by state", "title": "Income certificate: documents, fee and time limit by state", "blurb": "Who issues it, the documents, the fee and the time limit in each state we cover."},
-    {"slug": "domicile-certificate", "name": "Domicile certificate", "h1": "Domicile certificate guides by state", "title": "Domicile certificate: documents, fee and time limit by state", "blurb": "Who issues it, the documents, the fee and the time limit in each state we cover."},
-    {"slug": "caste-certificate", "name": "Caste certificate", "h1": "Caste certificate guides by state", "title": "Caste certificate guides by state", "blurb": "Caste and non creamy layer certificates, state by state."},
-    {"slug": "bihar", "name": "Bihar", "h1": "Bihar certificates", "title": "Bihar certificates", "blurb": "Income, caste and residence certificates under RTPS."},
-    {"slug": "karnataka", "name": "Karnataka", "h1": "Karnataka certificates", "title": "Karnataka certificates", "blurb": "Residence and caste certificates."}
+    {
+      "slug": "maharashtra",
+      "name": "Maharashtra",
+      "h1": "Maharashtra certificates: documents, fees and time limits",
+      "title": "Maharashtra certificates: fees and time limits",
+      "blurb": "Certificates applied for on Aaple Sarkar, with the time limits notified under the Maharashtra Right to Public Services Act, 2015."
+    },
+    {
+      "slug": "income-certificate",
+      "name": "Income certificate",
+      "h1": "Income certificate guides by state",
+      "title": "Income certificate: documents, fee and time limit by state",
+      "blurb": "Who issues it, the documents, the fee and the time limit in each state we cover."
+    },
+    {
+      "slug": "domicile-certificate",
+      "name": "Domicile certificate",
+      "h1": "Domicile certificate guides by state",
+      "title": "Domicile certificate: documents, fee and time limit by state",
+      "blurb": "Who issues it, the documents, the fee and the time limit in each state we cover."
+    },
+    {
+      "slug": "caste-certificate",
+      "name": "Caste certificate",
+      "h1": "Caste certificate guides by state",
+      "title": "Caste certificate guides by state",
+      "blurb": "Caste and non creamy layer certificates, state by state."
+    },
+    {
+      "slug": "bihar",
+      "name": "Bihar",
+      "h1": "Bihar certificates",
+      "title": "Bihar certificates",
+      "blurb": "Income, caste and residence certificates under RTPS."
+    },
+    {
+      "slug": "karnataka",
+      "name": "Karnataka",
+      "h1": "Karnataka certificates",
+      "title": "Karnataka certificates",
+      "blurb": "Residence and caste certificates."
+    }
   ],
-  "indexnow_key": "113fb50ddfa07bd6a7ae8f9ced4a6e4f"
+  "indexnow_key": "113fb50ddfa07bd6a7ae8f9ced4a6e4f",
+  "bing_site_auth": "C69CDE1D9F59B163AF106A25DEE18758"
 }
