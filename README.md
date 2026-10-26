@@ -51,7 +51,8 @@ Design and page rules: [DESIGN.md](DESIGN.md). Nightly checklist: [BUILD-PLAYBOO
 ## Indexing
 
 - IndexNow key file: https://rudracodeshere.github.io/certificate-guide-india/113fb50ddfa07bd6a7ae8f9ced4a6e4f.txt
-- Bing Webmaster: site added and sitemap submitted through the API.
+- Bing Webmaster (API, 2026-10-26 21:22 IST): AddSite, then verified with `BingSiteAuth.xml` and the `msvalidate.01` meta tag (VerifySite returned true). SubmitFeed for sitemap.xml (status Pending), SubmitUrlBatch for all 11 sitemap URLs (daily quota now 89).
+- IndexNow: HTTP 202 for all 11 sitemap URLs.
 
 ## License
 
