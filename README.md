@@ -7,7 +7,7 @@ A free static guide to Indian government certificates: which documents, what fee
 
 Sister site: [Where to Complain](https://rudracodeshere.github.io/where-to-complain/) (consumer complaint escalation ladders).
 
-## Pages (as of 2026-10-26)
+## Pages (as of 2026-10-27)
 
 | Page | URL |
 |------|-----|
@@ -15,8 +15,9 @@ Sister site: [Where to Complain](https://rudracodeshere.github.io/where-to-compl
 | Pillar: certificate time limits in India and what to do if late | https://rudracodeshere.github.io/certificate-guide-india/certificate-time-limits-india/ |
 | Income certificate in Maharashtra | https://rudracodeshere.github.io/certificate-guide-india/income-certificate-maharashtra/ |
 | Domicile certificate in Maharashtra | https://rudracodeshere.github.io/certificate-guide-india/domicile-certificate-maharashtra/ |
+| Caste certificate in Maharashtra | https://rudracodeshere.github.io/certificate-guide-india/caste-certificate-maharashtra/ |
 | Is my certificate late? calculator (tool) | https://rudracodeshere.github.io/certificate-guide-india/is-my-certificate-late-calculator/ |
-| Hubs: Maharashtra, Income certificate, Domicile certificate | https://rudracodeshere.github.io/certificate-guide-india/maharashtra/, https://rudracodeshere.github.io/certificate-guide-india/income-certificate/, https://rudracodeshere.github.io/certificate-guide-india/domicile-certificate/ |
+| Hubs: Maharashtra, Income certificate, Domicile certificate, Caste certificate | https://rudracodeshere.github.io/certificate-guide-india/maharashtra/, https://rudracodeshere.github.io/certificate-guide-india/income-certificate/, https://rudracodeshere.github.io/certificate-guide-india/domicile-certificate/, https://rudracodeshere.github.io/certificate-guide-india/caste-certificate/ |
 | About and disclaimer | https://rudracodeshere.github.io/certificate-guide-india/about/ |
 | How we check facts | https://rudracodeshere.github.io/certificate-guide-india/how-we-check-facts/ |
 | Privacy | https://rudracodeshere.github.io/certificate-guide-india/privacy/ |

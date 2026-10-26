@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-27 (IST)
+
+- New guide: caste certificate in Maharashtra (fee INR 40, documents and affidavits, SDO or Deputy Collector, appeal ladder, rejection appeal under the Caste Certificate Act, validity certificate, Form II template).
+- Official pages disagree on the time limit (21 vs 45 days). The page shows every source and the first appeal dates (day 46 to 51) that fit both readings.
+- Caste certificate hub is live. Caste row added to the pillar time limits table and annotated on the Maharashtra hub. Linked from the income, domicile and calculator pages. Caste not added to the calculator until the time limit is settled.
+- Facts checked 27 October 2026.
+
 ## 2026-10-26 (IST)
 
 - Launched Certificate Guide India (site #2), built from the Where to Complain generator.
