@@ -1,0 +1,25 @@
+# Certificate Guide India
+
+> Plain-English guides to Indian government certificates: documents, fee, the official time limit, and what to do if your certificate is late.
+
+A free, independent guide to Indian government certificates such as income and domicile certificates. Each guide gives the documents, the fee, the official time limit under the state's Right to Services law, the officers who issue the certificate and hear appeals, a free appeal template, and links to the official source with the date it was last checked. General information only, not legal advice. Not a government website.
+
+## Guides
+
+- [Certificates in India: time limits, and what to do if your certificate is late](https://rudracodeshere.github.io/certificate-guide-india/certificate-time-limits-india/): Right to Services laws set time limits for certificates. Maharashtra examples, how the clock starts, and the appeal ladder if your certificate is late. Last checked 2026-10-26.
+- [Income certificate in Maharashtra: apply, documents, fee and time limit (checked October 2026)](https://rudracodeshere.github.io/certificate-guide-india/income-certificate-maharashtra/): Apply for an income certificate in Maharashtra on Aaple Sarkar. Fee INR 20, time limit 15 days, documents list, and how to appeal if it is late. Last checked 2026-10-26.
+- [Domicile certificate in Maharashtra: apply, documents, fee and time limit (checked October 2026)](https://rudracodeshere.github.io/certificate-guide-india/domicile-certificate-maharashtra/): Apply for an Age, Nationality and Domicile certificate in Maharashtra on Aaple Sarkar. Fee INR 20, 15 day time limit, documents, and how to appeal. Last checked 2026-10-26.
+- [Is my certificate late? Maharashtra Right to Services date calculator](https://rudracodeshere.github.io/certificate-guide-india/is-my-certificate-late-calculator/): Enter the date your Maharashtra income or domicile certificate application was received. See the due date and the last day to file a first appeal. Last checked 2026-10-26.
+
+## Hubs
+
+- [Maharashtra](https://rudracodeshere.github.io/certificate-guide-india/maharashtra/): Certificates applied for on Aaple Sarkar, with the time limits notified under the Maharashtra Right to Public Services Act, 2015.
+- [Income certificate](https://rudracodeshere.github.io/certificate-guide-india/income-certificate/): Who issues it, the documents, the fee and the time limit in each state we cover.
+- [Domicile certificate](https://rudracodeshere.github.io/certificate-guide-india/domicile-certificate/): Who issues it, the documents, the fee and the time limit in each state we cover.
+
+## About
+
+- [About and disclaimer](https://rudracodeshere.github.io/certificate-guide-india/about/): what the site is and is not.
+- [How we check facts](https://rudracodeshere.github.io/certificate-guide-india/how-we-check-facts/): official sources only, dated checks, corrections.
+- [Privacy](https://rudracodeshere.github.io/certificate-guide-india/privacy/): no cookies and no analytics; what the host records.
+- [Sitemap](https://rudracodeshere.github.io/certificate-guide-india/sitemap.xml)

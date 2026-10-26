@@ -1,0 +1,186 @@
+{
+ "slug": "domicile-certificate-maharashtra",
+ "order": 2,
+ "sector": "maharashtra",
+ "also_in": [
+  "domicile-certificate"
+ ],
+ "kind": "guide",
+ "title": "Domicile certificate Maharashtra: documents, fee, 15 days",
+ "h1": "Domicile certificate in Maharashtra: apply, documents, fee and time limit (checked October 2026)",
+ "description": "Apply for an Age, Nationality and Domicile certificate in Maharashtra on Aaple Sarkar. Fee INR 20, 15 day time limit, documents, and how to appeal.",
+ "direct_answer": "In Maharashtra the domicile certificate is the Age, Nationality and Domicile Certificate, applied for on Aaple Sarkar. The official checklist lists a fee of INR 20 and a time limit of 15 days. The Tahsildar issues it. If it is late, appeal to the Sub-Divisional Officer within 30 days.",
+ "question": {
+  "q": "How long does a domicile certificate take in Maharashtra?",
+  "a": "The notified time limit is 15 days, counted from the date the complete application is received. If the Tahsildar has not issued or rejected it by then, you can file a first appeal to the Sub-Divisional Officer within 30 days. The second appeal goes to the Additional Collector."
+ },
+ "audience": "For anyone in Maharashtra who needs a domicile certificate for an admission, a job application or a scheme.",
+ "verified": "2026-10-26",
+ "published": "2026-10-26",
+ "primary_source": "https://aaplesarkar.mahaonline.gov.in/pdf/Fees,%20Procedure,%20Checklist_Domicile%20Certificate.pdf",
+ "sources": [
+  {
+   "label": "Aaple Sarkar: Fees, Procedure and Document Checklist for Age, Nationality and Domicile Certificate (Revenue Department PDF)",
+   "url": "https://aaplesarkar.mahaonline.gov.in/pdf/Fees,%20Procedure,%20Checklist_Domicile%20Certificate.pdf",
+   "checked": "2026-10-26"
+  },
+  {
+   "label": "Aaple Sarkar: Right to Services list of notified services, time limits and officers (Revenue Department)",
+   "url": "https://aaplesarkar.mahaonline.gov.in/en/CommonForm/CitizenServices_RTS",
+   "checked": "2026-10-26"
+  },
+  {
+   "label": "Maharashtra Right to Public Services Act, 2015, official Gazette copy (sections 5, 9, 10, 13 and 18)",
+   "url": "https://cdnbbsr.s3waas.gov.in/s3b090409688550f3cc93f4ed88ec6cafb/uploads/2024/10/202410091639591852.pdf",
+   "checked": "2026-10-26"
+  },
+  {
+   "label": "Maharashtra Right to Public Services Rules, 2016, English Gazette (rules 9 to 12 and 18, Forms II, III and V)",
+   "url": "https://industry.maharashtra.gov.in/sites/default/files/2025-12/rts_rules_gazette-english_0.pdf",
+   "checked": "2026-10-26"
+  },
+  {
+   "label": "Aaple Sarkar: Right to Service Act page (appeals can be filed online, RTS Maharashtra app, Commission office address)",
+   "url": "https://aaplesarkar.mahaonline.gov.in/en/CommonForm/RigthToServiceAct",
+   "checked": "2026-10-26"
+  },
+  {
+   "label": "Social Justice and Special Assistance Department: RTS Act page (Act in force from 28.04.2015)",
+   "url": "https://sjsa.maharashtra.gov.in/en/rts-act/",
+   "checked": "2026-10-26"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "answer",
+   "items": [
+    "<strong>Apply online</strong> on <a href=\"https://aaplesarkar.mahaonline.gov.in/en\" rel=\"noopener\">Aaple Sarkar</a>: Revenue Department, then Revenue Services, then the Age, Nationality and Domicile Certificate.",
+    "<strong>Fee:</strong> INR 20, as listed on the official checklist.",
+    "<strong>Time limit:</strong> 15 days from receipt of the complete application. The Tahsildar issues a digitally signed certificate that you download from the portal.",
+    "<strong>Documents:</strong> proof of identity, proof of address, a residence proof from the Talathi, Gram Sevak or Bill Collector, and a self declaration.",
+    "<strong>Late or rejected?</strong> First appeal to the Sub-Divisional Officer, second appeal to the Additional Collector, then the State Commission for Right to Service."
+   ]
+  },
+  {
+   "type": "section",
+   "title": "How to apply on Aaple Sarkar",
+   "id": "apply",
+   "html": "<p>These steps are from the official Revenue Department checklist.</p><ol><li>Register on the Aaple Sarkar portal. You can verify with Aadhaar or create your own profile with an OTP sent to your mobile.</li><li>Complete your profile: your details, address, mobile number, photograph, proof of identity and proof of address.</li><li>Select Revenue Department in the left panel, then Revenue Services in the sub department menu, and click Proceed.</li><li>Select the Age, Nationality and Domicile Certificate service. Read the list of documents and click Proceed.</li><li>Select the type of certificate. Fill in your details, address, beneficiary details, present address, birth details, education details and migration details.</li><li>Accept the declaration and submit the application.</li><li>Upload the documents.</li><li>Pay the service fee to complete the application. Keep the Application ID.</li></ol>"
+  },
+  {
+   "type": "table",
+   "id": "documents",
+   "title": "Documents you need",
+   "headers": [
+    "Category",
+    "What the checklist accepts"
+   ],
+   "rows": [
+    [
+     "Proof of identity (any one)",
+     "PAN Card, Passport, RSBY Card, Aadhaar Card, Voter ID Card, Driving License, MNREGA Job Card, photo of the applicant, or an identity card issued by a government or semi government organisation, or signature of the applicant"
+    ],
+    [
+     "Proof of address (any one)",
+     "Passport, water bill, ration card, Aadhaar Card, Voter ID Card, telephone bill, Driving License, electricity bill, property tax receipt, or extracts of 7/12 and 8A or a rent receipt"
+    ],
+    [
+     "Other documents (any one)",
+     "Water bill, ration card, rent receipt, voter list fee, telephone bill, electricity bill, marriage certificate, property tax receipt, property registration fee, residence proof of husband, or extracts of 7/12 and 8A or a rent receipt"
+    ],
+    [
+     "Age proof, if the applicant is a minor (any one)",
+     "SFC Certificate, bonafide certificate, school leaving certificate, father's domicile certificate, or extract from primary school entry"
+    ],
+    [
+     "Residence proof (any one)",
+     "Residence proof by the Talathi, by the Gram Sevak, or by the Bill Collector"
+    ],
+    [
+     "Mandatory",
+     "Self declaration, and any other document apart from those listed"
+    ]
+   ]
+  },
+  {
+   "type": "section",
+   "title": "What happens after you apply",
+   "id": "process",
+   "html": "<p>The checklist describes three checks. A tehsil clerk verifies the form, attachments and payment. The Awwal Karkun checks it next, and then the Tahsildar. At each stage the officer can send a rectification request with remarks. You resubmit as per the remarks. When nothing needs correcting, the digitally signed certificate is issued on the portal.</p>"
+  },
+  {
+   "type": "steps",
+   "title": "Is my certificate late? Who to appeal to and by when",
+   "rows": [
+    {
+     "who": "1. Tahsildar (designated officer)",
+     "contact": "Apply and track on <a href=\"https://aaplesarkar.mahaonline.gov.in/en\" rel=\"noopener\">Aaple Sarkar</a> with your Application ID. Toll free helpline 1800 120 8040.",
+     "deadline": "15 days from the date the complete application is received (Act section 5(1)). The officer must issue the certificate or reject it with reasons in writing."
+    },
+    {
+     "who": "2. First appeal: Sub-Divisional Officer",
+     "contact": "Form II of the 2016 Rules. You can file it on Aaple Sarkar or on paper (rule 11).",
+     "deadline": "Within 30 days of the time limit running out or of receiving a rejection. A late appeal can be admitted for sufficient cause, up to 90 days. The decision is due within 30 days of filing (section 9)."
+    },
+    {
+     "who": "3. Second appeal: Additional Collector",
+     "contact": "Form III of the 2016 Rules, online or on paper (rule 11).",
+     "deadline": "Within 30 days of receiving the first appeal order. If no order comes, you can file after 45 days from the first appeal. The decision is due within 45 days (section 9)."
+    },
+    {
+     "who": "4. Third appeal: Maharashtra State Commission for Right to Service",
+     "contact": "Form V of the 2016 Rules (rule 18). The <a href=\"https://aaplesarkar.mahaonline.gov.in/en/CommonForm/CitizenServices_RTS\" rel=\"noopener\">Aaple Sarkar Right to Services page</a> has a registration link for the third appeal. Commission office: 7th Floor, New Administrative Building, Hutatma Rajguru Chowk, Madam Cama Road, opposite Mantralaya, Mumbai 400032. Phone 022-22832346.",
+     "deadline": "Within 60 days of receiving the second appeal order. The Commission disposes of it within 90 days (section 18)."
+    }
+   ]
+  },
+  {
+   "type": "notice",
+   "html": "<p><strong>What the law adds.</strong> A rejection must give the reasons, the name and contact details of the appellate authority, and the time limit for appeal (rule 9). If the first appellate authority finds the officer failed without sufficient and reasonable cause, it must impose a penalty of not less than Rs 500, up to Rs 5,000 (section 10). The penalty is on the officer. The Act does not promise you compensation.</p>"
+  },
+  {
+   "type": "section",
+   "title": "Things the state does not publish",
+   "id": "not-published",
+   "html": "<ul><li><strong>How many years you must have lived in Maharashtra:</strong> not published on the checklist or the Right to Services page we checked. We will add it only from an official order.</li><li><strong>Validity of the certificate:</strong> not published by the state on those pages.</li><li><strong>Common rejection reasons:</strong> not published by the state. A rejection must state its reasons in writing, so read the order before you appeal.</li></ul>"
+  },
+  {
+   "type": "section",
+   "title": "Count your dates",
+   "id": "count",
+   "html": "<p>Use the <a href=\"../is-my-certificate-late-calculator/\">is my certificate late calculator</a> to get the due date and the last day for a first appeal. The <a href=\"../certificate-time-limits-india/\">guide to certificate time limits</a> explains how the clock works. Need proof of income as well? See the <a href=\"../income-certificate-maharashtra/\">income certificate guide</a>.</p>"
+  }
+ ],
+ "templates": [
+  {
+   "title": "Free first appeal template (Form II fields)",
+   "intro_html": "Free to copy. It follows the fields of Form II in the Maharashtra Right to Public Services Rules, 2016. Replace everything in [square brackets] and delete lines that do not apply. You can also file the appeal online on Aaple Sarkar.",
+   "text": "FORM II\nAppeal to the First Appellate Authority under section 9(1) of the Maharashtra Right to Public Services Act, 2015\n\nBefore: Sub-Divisional Officer, [office address of the Sub-Divisional Officer]\n\nName and address of the eligible person: [your full name and address]\nName and address of the Designated Officer: Tahsildar, [office address]\n\n1. Date of application: [date]\n2. Date of acknowledgement: [date]  Application ID: [number]\n3. Date of production of documents: [date]\n4. Details of the public service required: Age, Nationality and Domicile Certificate\n5. Decision of the Designated Officer: [no decision / rejected on date]\n6. Stipulated time limit: 15 days\n7. Date on which the rejection was received: [date, or \"not applicable\"]\n8. Grounds of appeal:\n   (i) The service was not provided within the stipulated time limit. [keep this line or delete it]\n   (ii) The application was rejected. The reasons given are not correct because [your reasons]. [keep this line or delete it]\n9. Relief sought: Issue the Age, Nationality and Domicile Certificate within the time you direct.\n10. Any other information: [optional]\n\nList of documents enclosed:\n1. Copy of the acknowledgement of my application\n2. [copy of the rejection order, if any]\n3. [other documents]\n\nDeclaration: The particulars given above are true and correct to the best of my knowledge, information and belief.\n\nDate: [date]\nPlace: [place]\nSignature: [signature]\n"
+  }
+ ],
+ "related": [
+  "income-certificate-maharashtra",
+  "is-my-certificate-late-calculator",
+  "certificate-time-limits-india",
+  "maharashtra",
+  "domicile-certificate"
+ ],
+ "faq": [
+  {
+   "q": "What is the fee for a domicile certificate in Maharashtra?",
+   "a": "The official Aaple Sarkar checklist lists a fee of INR 20."
+  },
+  {
+   "q": "Who issues the domicile certificate in Maharashtra?",
+   "a": "The Tahsildar is the designated officer. The Sub-Divisional Officer hears the first appeal and the Additional Collector hears the second appeal."
+  },
+  {
+   "q": "What residence proof does the checklist ask for?",
+   "a": "Any one residence proof given by the Talathi, the Gram Sevak or the Bill Collector."
+  },
+  {
+   "q": "How do I check if a certificate is genuine?",
+   "a": "Aaple Sarkar has a verify certificate option that uses the 18 digit barcode number printed on the certificate."
+  }
+ ]
+}

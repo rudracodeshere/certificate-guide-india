@@ -1,0 +1,144 @@
+{
+ "slug": "certificate-time-limits-india",
+ "order": 0,
+ "kind": "pillar",
+ "also_in": [],
+ "title": "Certificate time limits in India and what to do if late",
+ "h1": "Certificates in India: time limits, and what to do if your certificate is late",
+ "description": "Right to Services laws set time limits for certificates. Maharashtra examples, how the clock starts, and the appeal ladder if your certificate is late.",
+ "direct_answer": "Many states set a legal time limit for certificates under a Right to Services law. In Maharashtra, income and domicile certificates are due within 15 days of a complete application. If yours is late, file a first appeal within 30 days, then a second appeal, then go to the State Commission.",
+ "question": {
+  "q": "What can I do if my certificate is late?",
+  "a": "Check the notified time limit and when it started. In Maharashtra it counts from receipt of the complete application. Once it passes, file a first appeal within 30 days to the officer named in the state list. Keep your acknowledgement and Application ID, because the appeal form asks for them."
+ },
+ "audience": "For anyone waiting on an income, domicile or caste certificate from a state government office.",
+ "verified": "2026-10-26",
+ "published": "2026-10-26",
+ "primary_source": "https://aaplesarkar.mahaonline.gov.in/en/CommonForm/CitizenServices_RTS",
+ "sources": [
+  {
+   "label": "Aaple Sarkar: Right to Services list of notified services, time limits and officers (Revenue Department)",
+   "url": "https://aaplesarkar.mahaonline.gov.in/en/CommonForm/CitizenServices_RTS",
+   "checked": "2026-10-26"
+  },
+  {
+   "label": "Maharashtra Right to Public Services Act, 2015, official Gazette copy (sections 5, 9, 10, 13 and 18)",
+   "url": "https://cdnbbsr.s3waas.gov.in/s3b090409688550f3cc93f4ed88ec6cafb/uploads/2024/10/202410091639591852.pdf",
+   "checked": "2026-10-26"
+  },
+  {
+   "label": "Maharashtra Right to Public Services Rules, 2016, English Gazette (rules 9 to 12 and 18, Forms II, III and V)",
+   "url": "https://industry.maharashtra.gov.in/sites/default/files/2025-12/rts_rules_gazette-english_0.pdf",
+   "checked": "2026-10-26"
+  },
+  {
+   "label": "Aaple Sarkar: Right to Service Act page (appeals can be filed online, RTS Maharashtra app, Commission office address)",
+   "url": "https://aaplesarkar.mahaonline.gov.in/en/CommonForm/RigthToServiceAct",
+   "checked": "2026-10-26"
+  },
+  {
+   "label": "Social Justice and Special Assistance Department: RTS Act page (Act in force from 28.04.2015)",
+   "url": "https://sjsa.maharashtra.gov.in/en/rts-act/",
+   "checked": "2026-10-26"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "answer",
+   "items": [
+    "<strong>Find the time limit</strong> for your certificate in your state's list of notified services.",
+    "<strong>Note the start date.</strong> In Maharashtra the clock starts when the complete application is received, and you get an acknowledgement with a unique application number.",
+    "<strong>Wait for the limit to pass</strong>, or for a written rejection.",
+    "<strong>File a first appeal within 30 days</strong> to the first appellate authority named in the list.",
+    "<strong>Go higher if needed:</strong> second appeal, then the State Commission for Right to Service."
+   ]
+  },
+  {
+   "type": "table",
+   "id": "time-limits",
+   "title": "Time limits we have checked",
+   "headers": [
+    "Certificate",
+    "State",
+    "Time limit",
+    "Issued by",
+    "Guide"
+   ],
+   "rows": [
+    [
+     "Income certificate",
+     "Maharashtra",
+     "15 days",
+     "Nayab Tahsildar",
+     "<a href=\"../income-certificate-maharashtra/\">Income certificate in Maharashtra</a>"
+    ],
+    [
+     "Age, Nationality and Domicile certificate",
+     "Maharashtra",
+     "15 days",
+     "Tahsildar",
+     "<a href=\"../domicile-certificate-maharashtra/\">Domicile certificate in Maharashtra</a>"
+    ]
+   ]
+  },
+  {
+   "type": "section",
+   "title": "How the clock works in Maharashtra",
+   "id": "clock",
+   "html": "<p>The Maharashtra Right to Public Services Act, 2015 has been in force since 28 April 2015. Under section 5, the time limit counts from the date the complete application is received. The officer must issue the certificate or reject it with reasons in writing. The Act does not say whether the days are working days, so our calculator counts calendar days and says so.</p><p>See every Revenue Department certificate and its limit on the <a href=\"../maharashtra/\">Maharashtra page</a>.</p>"
+  },
+  {
+   "type": "steps",
+   "title": "The appeal ladder in Maharashtra",
+   "rows": [
+    {
+     "who": "1. First appeal",
+     "contact": "To the first appellate authority named for your certificate, in Form II, online or on paper.",
+     "deadline": "Within 30 days of the time limit running out or of a rejection. Up to 90 days for sufficient cause. Decision within 30 days."
+    },
+    {
+     "who": "2. Second appeal",
+     "contact": "To the second appellate authority, in Form III, online or on paper.",
+     "deadline": "Within 30 days of the first appeal order, or after 45 days if there is no order. Decision within 45 days."
+    },
+    {
+     "who": "3. Third appeal",
+     "contact": "To the Maharashtra State Commission for Right to Service, in Form V.",
+     "deadline": "Within 60 days of the second appeal order. Disposal within 90 days."
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "title": "Other states",
+   "id": "other-states",
+   "html": "<p>We publish a state only after checking its own official list of services and appeal rules. Bihar and Karnataka are next in our queue. Until then, look for your state's Right to Services list on its official portal.</p>"
+  },
+  {
+   "type": "section",
+   "title": "Not a certificate problem?",
+   "id": "sister",
+   "html": "<p>For a complaint against a bank, insurer, telecom company or other business, our sister site <a href=\"https://rudracodeshere.github.io/where-to-complain/\" rel=\"noopener\">Where to Complain</a> lists who to write to, in what order, and by when.</p>"
+  }
+ ],
+ "related": [
+  "income-certificate-maharashtra",
+  "domicile-certificate-maharashtra",
+  "is-my-certificate-late-calculator",
+  "maharashtra"
+ ],
+ "faq": [
+  {
+   "q": "Is there a legal time limit for getting a certificate?",
+   "a": "In Maharashtra, yes. The Right to Public Services Act, 2015 lets the state notify time limits, and the Revenue Department lists 15 days for income and domicile certificates."
+  },
+  {
+   "q": "Does the appeal cost anything?",
+   "a": "We found no appeal fee in the Maharashtra Act or the 2016 Rules. The Rules only mention a fee for the service itself, if one is notified."
+  },
+  {
+   "q": "What happens to an officer who delays without reason?",
+   "a": "In Maharashtra the first appellate authority must impose a penalty of not less than Rs 500, up to Rs 5,000, if the officer failed without sufficient and reasonable cause."
+  }
+ ]
+}

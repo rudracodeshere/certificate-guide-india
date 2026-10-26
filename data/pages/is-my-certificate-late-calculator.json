@@ -1,0 +1,131 @@
+{
+ "slug": "is-my-certificate-late-calculator",
+ "order": 3,
+ "sector": "maharashtra",
+ "also_in": [
+  "income-certificate",
+  "domicile-certificate"
+ ],
+ "kind": "tool",
+ "title": "Is my certificate late? Maharashtra RTS calculator",
+ "h1": "Is my certificate late? Maharashtra Right to Services date calculator",
+ "description": "Enter the date your Maharashtra income or domicile certificate application was received. See the due date and the last day to file a first appeal.",
+ "direct_answer": "Enter the date your complete application was received. For a Maharashtra income or domicile certificate, the time limit is 15 days. The calculator shows the due date, the day a first appeal becomes possible, and the last day to file it. Every rule it uses is listed below with its source.",
+ "question": {
+  "q": "When can I appeal if my certificate is late?",
+  "a": "In Maharashtra you can file a first appeal once the 15 day time limit has passed without the certificate or a written rejection. The appeal must be filed within 30 days of the limit running out. A late appeal can be admitted for sufficient cause, up to 90 days."
+ },
+ "audience": "For anyone in Maharashtra waiting on an income or domicile certificate.",
+ "verified": "2026-10-26",
+ "published": "2026-10-26",
+ "primary_source": "https://cdnbbsr.s3waas.gov.in/s3b090409688550f3cc93f4ed88ec6cafb/uploads/2024/10/202410091639591852.pdf",
+ "sources": [
+  {
+   "label": "Aaple Sarkar: Right to Services list of notified services, time limits and officers (Revenue Department)",
+   "url": "https://aaplesarkar.mahaonline.gov.in/en/CommonForm/CitizenServices_RTS",
+   "checked": "2026-10-26"
+  },
+  {
+   "label": "Maharashtra Right to Public Services Act, 2015, official Gazette copy (sections 5, 9, 10, 13 and 18)",
+   "url": "https://cdnbbsr.s3waas.gov.in/s3b090409688550f3cc93f4ed88ec6cafb/uploads/2024/10/202410091639591852.pdf",
+   "checked": "2026-10-26"
+  },
+  {
+   "label": "Maharashtra Right to Public Services Rules, 2016, English Gazette (rules 9 to 12 and 18, Forms II, III and V)",
+   "url": "https://industry.maharashtra.gov.in/sites/default/files/2025-12/rts_rules_gazette-english_0.pdf",
+   "checked": "2026-10-26"
+  },
+  {
+   "label": "Aaple Sarkar: Fees, Procedure and Document Checklist for Income Certificate (Revenue Department PDF)",
+   "url": "https://aaplesarkar.mahaonline.gov.in/pdf/Fees,%20Procedure,%20Checklist_Income%20Certificate.pdf",
+   "checked": "2026-10-26"
+  },
+  {
+   "label": "Aaple Sarkar: Fees, Procedure and Document Checklist for Age, Nationality and Domicile Certificate (Revenue Department PDF)",
+   "url": "https://aaplesarkar.mahaonline.gov.in/pdf/Fees,%20Procedure,%20Checklist_Domicile%20Certificate.pdf",
+   "checked": "2026-10-26"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "answer",
+   "title": "How to use it",
+   "items": [
+    "Pick the certificate you applied for.",
+    "Enter the date on your acknowledgement, when the complete application was received.",
+    "If you have already filed a first appeal, enter that date too.",
+    "Read your dates. Each line names the rule it comes from."
+   ]
+  },
+  {
+   "type": "calculator"
+  },
+  {
+   "type": "table",
+   "id": "rules",
+   "title": "The rules the calculator uses",
+   "headers": [
+    "Date",
+    "Rule",
+    "Source"
+   ],
+   "rows": [
+    [
+     "Certificate due",
+     "15 days from receipt of the complete application",
+     "RTS list on Aaple Sarkar; Act section 5(1)"
+    ],
+    [
+     "Last day for a first appeal",
+     "30 days after the time limit runs out, or after you receive a rejection. Up to 90 days for sufficient cause",
+     "Act section 9(1)"
+    ],
+    [
+     "First appeal decision",
+     "Within 30 days of filing",
+     "Act section 9(2)"
+    ],
+    [
+     "Second appeal",
+     "Within 30 days of the first appeal order, or after 45 days from the first appeal if there is no order",
+     "Act section 9(3)"
+    ],
+    [
+     "Third appeal",
+     "Within 60 days of the second appeal order",
+     "Act section 18(1)"
+    ]
+   ]
+  },
+  {
+   "type": "notice",
+   "html": "<p><strong>Calendar days.</strong> The Act does not say whether the days are working days, so the calculator counts calendar days. If your last day falls on a holiday, file early. This is a counting aid, not legal advice.</p>"
+  },
+  {
+   "type": "section",
+   "title": "Read the full guide",
+   "id": "guides",
+   "html": "<p>Documents, fees and the appeal form are in the <a href=\"../income-certificate-maharashtra/\">income certificate guide</a> and the <a href=\"../domicile-certificate-maharashtra/\">domicile certificate guide</a>. For how time limits work in general, see <a href=\"../certificate-time-limits-india/\">certificate time limits in India</a>.</p>"
+  }
+ ],
+ "related": [
+  "income-certificate-maharashtra",
+  "domicile-certificate-maharashtra",
+  "certificate-time-limits-india",
+  "maharashtra"
+ ],
+ "faq": [
+  {
+   "q": "Does the calculator count working days?",
+   "a": "No. It counts calendar days, because the Act does not say the days are working days."
+  },
+  {
+   "q": "Is my data sent anywhere?",
+   "a": "No. The dates stay in your browser. The page has no analytics."
+  },
+  {
+   "q": "Which certificates does it cover?",
+   "a": "Maharashtra income and Age, Nationality and Domicile certificates, both with a 15 day time limit."
+  }
+ ]
+}
