@@ -84,6 +84,8 @@ Skipped: running it. It needs a Google Cloud OAuth client, which means a sign-up
 - [ ] Link the exact document or subpage, not the portal home. Record the date checked next to each source.
 - [ ] Open each source today and confirm the exact figure is on it. Anything unconfirmed is cut, not hedged.
 - [ ] Data goes in the page data file; no fact appears only in prose.
+- [ ] Hindi state PDFs in legacy fonts: render them with `pdftoppm` and read the images, because pdftotext output is garbage. Portal document links are relative, so resolve them against the page that links them (Bihar: `/resources/homePage/10/Document/`).
+- [ ] If every official source for a state fails from the box and from the web fetcher, skip the page and record why in QUEUE.md. Never use a third-party or ambiguous listing instead.
 
 **B. Writing**
 - [ ] First paragraph: 40-60 word answer (who, by when, cost). Plain English, "you", short sentences.
@@ -101,6 +103,7 @@ Skipped: running it. It needs a Google Cloud OAuth client, which means a sign-up
 
 **D. Clusters and internal links**
 - [ ] Link up to the hub, and add the page to the hub's list.
+- [ ] New state sector: add its line to `HUB_DESC` in build.py and its h1/title/blurb in site.json first, or the build fails with a KeyError.
 - [ ] Link to 2-3 sibling guides, and add a link back from at least 2 of them, so the page has 3+ inbound links.
 - [ ] Descriptive anchors (never "click here"). Within 2 clicks of home.
 
