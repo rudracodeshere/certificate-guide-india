@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-10-27 (IST), evening
+
+- Income, domicile and caste certificate (Maharashtra) pages: added a note below the documents table that a Government of Maharashtra order of 1 July 2004 (Revenue and Forests Department, section 9 of the Bombay Stamp Act, 1958) remits the stamp duty on affidavits or declarations made for obtaining caste, income, domicile and nationality certificates. Linked to the IGR Maharashtra copy of the order (checked 27 October 2026) and added to each page's sources.
+- br mogul's Maharashtra certificate checklist PDF was reviewed and not published yet: it says you can apply "at your Tahsil office", which no site page or official checklist supports, and it still has two "[UNCHECKED: ...]" draft notes in the reader-facing text.
+
 ## 2026-10-27 (IST)
 
 - Visit counting added: the same GoatCounter snippet as Where to Complain (`https://where-to-complain.goatcounter.com/count`, script `gc.zgo.at/count.js`) is in the layout, so every page has it. No new account; pages are told apart by the `/certificate-guide-india/` path.

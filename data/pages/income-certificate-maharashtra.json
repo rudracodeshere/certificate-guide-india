@@ -48,6 +48,11 @@
    "label": "Social Justice and Special Assistance Department: RTS Act page (Act in force from 28.04.2015)",
    "url": "https://sjsa.maharashtra.gov.in/en/rts-act/",
    "checked": "2026-10-26"
+  },
+  {
+   "label": "Government of Maharashtra, Revenue and Forests Department order of 1 July 2004 under section 9 of the Bombay Stamp Act, 1958: stamp duty remitted on affidavits for caste, income, domicile and nationality certificates (IGR Maharashtra PDF)",
+   "url": "https://igrmaharashtra.gov.in/pdf/documents/Affidiavit%20Circular%20English.pdf",
+   "checked": "2026-10-27"
   }
  ],
  "blocks": [
@@ -97,6 +102,11 @@
      "Self declaration, and any other document apart from those listed"
     ]
    ]
+  },
+  {
+   "type": "notice",
+   "id": "stamp-duty",
+   "html": "<p><strong>No stamp duty on the affidavit or declaration.</strong> A Government of Maharashtra order dated 1 July 2004 (Revenue and Forests Department, under section 9 of the Bombay Stamp Act, 1958) \"remits the stamp duty\" on any \"affidavit or declaration made for obtaining caste certificate/Income certificate/Domicile certificate/Nationality Certificate\". That covers the affidavit or self declaration for an income certificate. Source: <a href=\"https://igrmaharashtra.gov.in/pdf/documents/Affidiavit%20Circular%20English.pdf\" rel=\"noopener\">the order on the IGR Maharashtra website</a> (checked 27 October 2026).</p>"
   },
   {
    "type": "section",
