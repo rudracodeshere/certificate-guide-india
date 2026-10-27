@@ -1,0 +1,251 @@
+{
+ "slug": "bihar-certificates-rtps",
+ "order": 5,
+ "sector": "bihar",
+ "also_in": [
+  "income-certificate",
+  "caste-certificate",
+  "domicile-certificate"
+ ],
+ "kind": "guide",
+ "title": "Bihar caste, income, residence certificate: RTPS time limits",
+ "h1": "Caste, income and residence certificates in Bihar under RTPS: time limits and appeals (checked October 2026)",
+ "description": "Bihar caste, income and residence certificates on RTPS: 10 working days (2 for Tatkal), forms, validity, and how to appeal to the SDO or DM if late.",
+ "direct_answer": "In Bihar you apply for a caste, income or residence certificate on the RTPS portal serviceonline.bihar.gov.in or at an RTPS counter. Under the Bihar Right to Public Services Act, 2011 the Circle Officer must issue it within 10 working days, or 2 working days under Tatkal. If it is late, appeal to the Sub-Divisional Officer within 30 days.",
+ "question": {
+  "q": "How many days does a caste certificate take in Bihar?",
+  "a": "The General Administration Department's RTPS service list gives the Circle Officer 10 working days for a caste, income or residence certificate. Under Tatkal service the limit is 2 working days. Public holidays are not counted."
+ },
+ "audience": "For anyone in Bihar who needs a caste, income or residence certificate for an admission, a job, a scholarship or a scheme.",
+ "verified": "2026-10-28",
+ "published": "2026-10-28",
+ "primary_source": "https://serviceonline.bihar.gov.in/resources/homePage/10/Document/Bihar_RTPS_GAD_Services.pdf",
+ "blocks": [
+  {
+   "type": "answer",
+   "items": [
+    "<strong>Apply online</strong> on <a href=\"https://serviceonline.bihar.gov.in/\" rel=\"noopener\">serviceonline.bihar.gov.in</a> (RTPS, General Administration Department), with or without a login, or at the RTPS counter of your block or circle office.",
+    "<strong>Who issues it:</strong> the Circle Officer (Anchaladhikari). A certificate at Sub-Division or District level is issued on the basis of the lower level certificate.",
+    "<strong>Time limit:</strong> 10 working days at each level, and 2 working days for a caste, income or residence certificate under Tatkal service, as listed in the <a href=\"https://serviceonline.bihar.gov.in/resources/homePage/10/Document/Bihar_RTPS_GAD_Services.pdf\" rel=\"noopener\">GAD RTPS service list</a>.",
+    "<strong>Late or rejected?</strong> First appeal to the Sub-Divisional Officer within 30 days, then a second appeal to the District Magistrate within 60 days. Appeals are free.",
+    "<strong>Validity:</strong> a caste certificate and a permanent residence certificate stay valid. An income certificate is valid for one year from the date of issue."
+   ]
+  },
+  {
+   "type": "table",
+   "id": "time-limits",
+   "title": "Bihar RTPS time limits for caste, income and residence certificates (appeal decision time in brackets)",
+   "headers": [
+    "Level",
+    "Issued by",
+    "Time limit",
+    "First appeal",
+    "Second appeal"
+   ],
+   "rows": [
+    [
+     "Circle (Anchal)",
+     "Circle Officer",
+     "10 working days",
+     "Sub-Divisional Officer (15 working days)",
+     "District Magistrate (15 working days)"
+    ],
+    [
+     "Sub-Division (Anumandal)",
+     "Sub-Divisional Officer, or an officer authorised by the Sub-Divisional Officer",
+     "10 working days",
+     "District Magistrate (15 working days)",
+     "Divisional Commissioner (15 working days)"
+    ],
+    [
+     "District",
+     "Officer authorised by the District Magistrate",
+     "10 working days",
+     "District Magistrate (15 working days)",
+     "Divisional Commissioner (15 working days)"
+    ],
+    [
+     "Circle (Anchal), Tatkal service",
+     "Circle Officer",
+     "2 working days",
+     "Sub-Divisional Officer (15 working days)",
+     "District Magistrate (15 working days)"
+    ]
+   ]
+  },
+  {
+   "type": "notice",
+   "html": "<p>The service list is a General Administration Department PDF linked from serviceonline.bihar.gov.in. The file itself carries no date. The same 10 working days appear on the RTPS <a href=\"https://rtps.bihar.gov.in/dscertificateview/GeneralInformation.aspx\" rel=\"noopener\">general information page</a>. Both were open on 28 October 2026.</p>"
+  },
+  {
+   "type": "section",
+   "id": "how-long",
+   "title": "How long does a certificate take in Bihar?",
+   "html": "<p>A caste, income or residence certificate in Bihar takes up to 10 working days from the Circle Officer, or 2 working days under Tatkal service. The General Administration Department's RTPS service list sets these limits under the Bihar Right to Public Services Act, 2011, which has applied since 15 August 2011. Under section 5(1) of the Act, the clock starts on the date you submit the application to the designated public servant or to staff authorised to receive it, and you must get an acknowledgement. Rule 6 of the Bihar Right to Public Services Rules, 2011 says public holidays are not counted, so the 10 days are working days. Within the limit the officer must either issue the certificate or reject the application with reasons in writing (section 5(2)). The same 10 working days apply when the Sub-Divisional Officer or the District Magistrate's authorised officer issues the certificate. If the deadline passes with no decision, you can appeal.</p>"
+  },
+  {
+   "type": "table",
+   "id": "forms",
+   "title": "Forms used for each certificate",
+   "headers": [
+    "Certificate",
+    "Application form",
+    "Self affidavit",
+    "Certificate form"
+   ],
+   "rows": [
+    [
+     "Caste certificate",
+     "Form I",
+     "Form II (General), Form III (SC/ST), Form V (BC/EBC)",
+     "Form II (SC/ST), Form IV (BC/EBC), and a form for the general category"
+    ],
+    [
+     "Residence certificate",
+     "Form XII",
+     "Form XIV",
+     "Form XIII"
+    ],
+    [
+     "Income certificate",
+     "Form XV",
+     "Form XVII",
+     "Form XVI"
+    ],
+    [
+     "OBC non creamy layer (Government of India purposes)",
+     "Form VI",
+     "Form VIII",
+     "Form VII"
+    ],
+    [
+     "BC/EBC non creamy layer (Bihar Government purposes)",
+     "Form IX",
+     "Form XI",
+     "Form X"
+    ]
+   ]
+  },
+  {
+   "type": "section",
+   "id": "apply",
+   "title": "How to apply on the RTPS portal",
+   "html": "<p>The GAD <a href=\"https://serviceonline.bihar.gov.in/resources/homePage/10/Document/GAD_application_diagram.pdf\" rel=\"noopener\">application process flow</a> gives three ways to apply at Circle level:</p><ul><li>Online without a login, through the direct service link on serviceonline.bihar.gov.in.</li><li>Online with a login: fill the form, attach the annexures and submit.</li><li>Offline at the RTPS counter, where an Executive Assistant enters your form.</li></ul><p>Each way gives you an acknowledgement and an SMS and email about the submission. Keep the application reference number. The finished certificate comes as a link in an SMS, an email attachment, in DigiLocker, as a download from Track Application Status on the portal, or from the RTPS counter. To verify a certificate, the portal has a check by submission ID.</p>"
+  },
+  {
+   "type": "section",
+   "id": "validity",
+   "title": "How long is each certificate valid?",
+   "html": "<p>The General Administration Department's <a href=\"https://serviceonline.bihar.gov.in/resources/homePage/10/Document/GAD_points.pdf\" rel=\"noopener\">notice on the RTPS portal</a> says:</p><ul><li>A caste certificate stays valid for good.</li><li>A permanent residence certificate stays valid for good. A temporary residence certificate is valid for one year from the date of issue.</li><li>An income certificate is valid for one year from the date of issue.</li><li>A person's caste is decided by the father's caste, not the husband's.</li><li>Original documents are returned after verification.</li><li>For a new non creamy layer certificate, or for a state government job, you can give an undertaking in the set format along with your old non creamy layer certificate instead of applying again each time.</li></ul>"
+  },
+  {
+   "type": "steps",
+   "title": "Is my certificate late? Who to appeal to and by when",
+   "rows": [
+    {
+     "who": "1. First appeal",
+     "contact": "To the Appellate Authority in the table above: the Sub-Divisional Officer for a Circle level certificate. Use the RTPS Appeal link on serviceonline.bihar.gov.in or apply on paper.",
+     "deadline": "Within 30 days of the rejection or of the time limit running out (section 6(1)). A late appeal can be admitted for sufficient cause. Decision time in the service list: 15 working days."
+    },
+    {
+     "who": "2. Second appeal",
+     "contact": "To the Reviewing Authority: the District Magistrate for a Circle level certificate, the Divisional Commissioner for Sub-Division and District level.",
+     "deadline": "Within 60 days of the first appeal order (section 6(3)). Decision time in the service list: 15 working days."
+    },
+    {
+     "who": "If the order is not obeyed",
+     "contact": "If the officer does not follow the first appeal order to issue the certificate, apply straight to the Reviewing Authority (section 6(4)).",
+     "deadline": "Not set in the Act."
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "appeal-rules",
+   "title": "What the appeal rules say",
+   "html": "<p>The Bihar Right to Public Services Rules, 2011 set these points:</p><ul><li>No fee is charged for a first or second appeal (rule 9).</li><li>The appeal must give your name and address, the officer's name and address, a summary of the order you appeal against, the grounds and the relief you want (rule 10).</li><li>Attach a list of documents, a self attested copy of the order and copies of the documents you mention (rule 11).</li><li>You get notice of the hearing at least 7 days before it (rule 14).</li></ul><p>In the appeal the officer has to prove the delay or refusal was justified (section 6(6) of the Act). If the officer failed without good reason, the Appellate Authority can impose a penalty of Rs 250 for each day of delay, up to Rs 5,000, or a lump sum of Rs 500 to Rs 5,000 (rule 8). It is recovered from the officer's salary.</p>"
+  },
+  {
+   "type": "section",
+   "id": "not-published",
+   "title": "What the state does not publish",
+   "html": "<p>The GAD service list and the RTPS pages we checked do not give a fee for these certificates or a full list of supporting documents beyond the forms and affidavits above. Not published by the state on the pages we checked. The RTPS Appeal website did not open for us on 28 October 2026, so use the link on serviceonline.bihar.gov.in or file on paper.</p>"
+  }
+ ],
+ "templates": [
+  {
+   "title": "Free first appeal template (Bihar RTPS, rule 10 fields)",
+   "intro_html": "Free to copy. It follows the fields listed in rule 10 of the Bihar Right to Public Services Rules, 2011. Replace everything in [square brackets] and delete lines that do not apply.",
+   "text": "First appeal under section 6(1) of the Bihar Right to Public Services Act, 2011\n\nTo: The Sub-Divisional Officer, [Sub-Division name], [district]\n\n1. Name and address of the appellant: [your full name and address, mobile number]\n2. Name and address of the designated public servant: Circle Officer, [circle name], [district]\n3. Service applied for: [Caste / Income / Residence] certificate, application reference number [number], submitted on [date]\n4. Order appealed against: [the rejection order dated (date), in short] OR [no decision within 10 working days; the time limit ended on (date)]\n5. Grounds of appeal: [why the rejection is wrong, or that no certificate was issued within the time limit]\n6. Relief sought: Direct the designated public servant to issue the certificate, and take action under section 7 of the Act.\n7. Other information: [anything else that helps]\n\nDocuments attached:\n(a) List of documents\n(b) Self attested copy of the rejection order or the acknowledgement\n(c) Copies of the documents referred to above\n\nPlace: [place]\nDate: [date]\nSignature: [your signature]"
+  }
+ ],
+ "related": [
+  "certificate-time-limits-india",
+  "is-my-certificate-late-calculator",
+  "caste-certificate-maharashtra",
+  "income-certificate-maharashtra",
+  "domicile-certificate-maharashtra",
+  "bihar",
+  "caste-certificate",
+  "income-certificate"
+ ],
+ "faq": [
+  {
+   "q": "How many days does a caste certificate take in Bihar?",
+   "a": "The GAD RTPS service list gives the Circle Officer 10 working days. Under Tatkal service it is 2 working days."
+  },
+  {
+   "q": "How long is a Bihar income certificate valid?",
+   "a": "The General Administration Department's notice on the RTPS portal says an income certificate is valid for one year from the date of issue."
+  },
+  {
+   "q": "Does a Bihar caste certificate expire?",
+   "a": "No. The same notice says a caste certificate stays valid for good, as does a permanent residence certificate. A temporary residence certificate is valid for one year."
+  },
+  {
+   "q": "Who do I appeal to if my certificate is late in Bihar?",
+   "a": "For a Circle level certificate, file a first appeal with the Sub-Divisional Officer within 30 days, then a second appeal with the District Magistrate within 60 days. Appeals are free."
+  },
+  {
+   "q": "Is there a penalty for the officer?",
+   "a": "Yes. Under rule 8 the Appellate Authority can impose Rs 250 for each day of delay, up to Rs 5,000, or a lump sum of Rs 500 to Rs 5,000, recovered from the officer's salary."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Government of Bihar, General Administration Department: RTPS service list for caste, residence, income and non creamy layer certificates, with designated officers, appellate and reviewing authorities and working days (serviceonline.bihar.gov.in PDF)",
+   "url": "https://serviceonline.bihar.gov.in/resources/homePage/10/Document/Bihar_RTPS_GAD_Services.pdf",
+   "checked": "2026-10-28"
+  },
+  {
+   "label": "Bihar RTPS general information page: Act in force from 15 August 2011, caste, residence and income certificates 10 working days at Circle, Sub-Division and District level",
+   "url": "https://rtps.bihar.gov.in/dscertificateview/GeneralInformation.aspx",
+   "checked": "2026-10-28"
+  },
+  {
+   "label": "General Administration Department notice on certificate validity and caste by father's caste (serviceonline.bihar.gov.in PDF, in Hindi)",
+   "url": "https://serviceonline.bihar.gov.in/resources/homePage/10/Document/GAD_points.pdf",
+   "checked": "2026-10-28"
+  },
+  {
+   "label": "GAD application process flow for caste, income and residence certificates at CO, SDO and DM level (serviceonline.bihar.gov.in PDF)",
+   "url": "https://serviceonline.bihar.gov.in/resources/homePage/10/Document/GAD_application_diagram.pdf",
+   "checked": "2026-10-28"
+  },
+  {
+   "label": "Bihar Right to Public Services Act, 2011, Bihar Gazette (Extraordinary) of 2 May 2011, Hindi text and English translation: sections 5, 6 and 7",
+   "url": "https://rtps.bihar.gov.in/rtps/Act/Act.pdf",
+   "checked": "2026-10-28"
+  },
+  {
+   "label": "Bihar Right to Public Services Rules, 2011 (in Hindi): rules 5, 6, 8, 9, 10, 11 and 14",
+   "url": "https://rtps.bihar.gov.in/rtps/Act/Rules.pdf",
+   "checked": "2026-10-28"
+  },
+  {
+   "label": "Bihar e-District RTPS portal (ServicePlus): online application, track status, RTPS Appeal link",
+   "url": "https://serviceonline.bihar.gov.in/",
+   "checked": "2026-10-28"
+  }
+ ]
+}

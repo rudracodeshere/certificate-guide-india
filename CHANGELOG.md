@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-10-28 (IST)
+
+- New guide: Bihar caste, income and residence certificates under the RTPS Act (`/bihar-certificates-rtps/`). It covers the time limits (10 working days at CO, SDO or DM level; tatkal 2 working days at CO level), the application form numbers, validity, the first and second appeal officers and limits, the no-fee appeal, the hearing notice, and the officer penalty (Rs 250 a day up to Rs 5,000). It includes a first appeal template and 5 FAQs.
+- Bihar hub is live. Three Bihar rows were added to the pillar time limits table, and the other-states section was retitled "Bihar and other states". Linked from the pillar, the three Maharashtra guides and the calculator.
+- Left out: the fee and a full documents list (the state does not publish them in the sources checked). The RTPS appeal site did not open. Bihar was not added to the calculator because it counts working days without public holidays.
+- Karnataka residence certificate (queue #6) was not started: the Karnataka portals fail TLS from the build box, so the Sakala time limit could not be checked.
+- Facts checked 28 October 2026.
+
 ## 2026-10-27 (IST), evening
 
 - Income, domicile and caste certificate (Maharashtra) pages: added a note below the documents table that a Government of Maharashtra order of 1 July 2004 (Revenue and Forests Department, section 9 of the Bombay Stamp Act, 1958) remits the stamp duty on affidavits or declarations made for obtaining caste, income, domicile and nationality certificates. Linked to the IGR Maharashtra copy of the order (checked 27 October 2026) and added to each page's sources.

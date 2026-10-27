@@ -284,6 +284,7 @@ HUB_DESC = {
     "income-certificate": "Income certificate guides by state: documents, fee, the official time limit, who issues it and how to appeal if it is late. Official sources only.",
     "domicile-certificate": "Domicile certificate guides by state: documents, fee, the official time limit, who issues it and how to appeal if it is late. Official sources only.",
     "caste-certificate": "Caste certificate guides by state: documents, affidavits, fee, the official time limit, who issues it and how to appeal if it is late.",
+    "bihar": "Bihar certificates on the RTPS portal: caste, income and residence certificate time limits, forms, validity and who hears your appeal if it is late.",
 }
 
 HUB_EXTRA = {
