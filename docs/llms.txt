@@ -23,5 +23,5 @@ A free, independent guide to Indian government certificates such as income and d
 
 - [About and disclaimer](https://rudracodeshere.github.io/certificate-guide-india/about/): what the site is and is not.
 - [How we check facts](https://rudracodeshere.github.io/certificate-guide-india/how-we-check-facts/): official sources only, dated checks, corrections.
-- [Privacy](https://rudracodeshere.github.io/certificate-guide-india/privacy/): no cookies and no analytics; what the host records.
+- [Privacy](https://rudracodeshere.github.io/certificate-guide-india/privacy/): no cookies; what the GoatCounter visit counter and the host record.
 - [Sitemap](https://rudracodeshere.github.io/certificate-guide-india/sitemap.xml)

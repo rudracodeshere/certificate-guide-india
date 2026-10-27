@@ -70,7 +70,7 @@ Skipped: blog-image, audio, notebooklm and translate (not text-first, or need pa
 Skipped: the Actions workflow generator (we deploy from docs/ on main, which works) and the affiliate/landing-page parts (no ads or affiliates yet).
 
 ### seo-data (anthonylee991)
-1. GSC is "what people searched", GA4 is "what they did". This site has no analytics at all. Do not mix the two numbers in reports.
+1. GSC is "what people searched", GA4 is "what they did". We have GoatCounter (shared with site #1, filter on `/certificate-guide-india/`), not GA4. Do not mix the two numbers in reports.
 2. Weekly once data exists: top queries and pages from GSC, the same for Bing, and pages with impressions but CTR under 1% get a title/description rewrite.
 Skipped: running it. It needs a Google Cloud OAuth client, which means a sign-up. Bing is done through the Bing Webmaster API key in the environment (AddSite, SubmitFeed, SubmitUrlBatch).
 
@@ -124,5 +124,5 @@ Skipped: running it. It needs a Google Cloud OAuth client, which means a sign-up
 
 ## 3. Site-level history
 
-Sections 3 and 4 of site #1's playbook (its audit and fix list) stay in `../where-to-complain/BUILD-PLAYBOOK.md`. This site started on 26 October 2026 with those fixes already applied: no analytics script, `@graph` JSON-LD, a local favicon, and no Google verification file.
+Sections 3 and 4 of site #1's playbook (its audit and fix list) stay in `../where-to-complain/BUILD-PLAYBOOK.md`. This site started on 26 October 2026 with those fixes already applied: no analytics script at launch (GoatCounter added 27 October 2026, with the privacy page updated first), `@graph` JSON-LD, a local favicon, and no Google verification file.
 

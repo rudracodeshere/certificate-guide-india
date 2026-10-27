@@ -3,7 +3,7 @@
 **Live site:** https://rudracodeshere.github.io/certificate-guide-india/
 **Repo:** https://github.com/rudracodeshere/certificate-guide-india
 
-A free static guide to Indian government certificates: which documents, what fee, the officer who issues it, the official time limit, and who to appeal to if the certificate is late. Every fact is copied from an official government page, PDF, Act or Rules, with the URL and the date it was checked. If the state does not publish something, the page says "Not published by the state" instead of guessing. No ads, no cookies, no analytics. JavaScript runs only on the calculator page.
+A free static guide to Indian government certificates: which documents, what fee, the officer who issues it, the official time limit, and who to appeal to if the certificate is late. Every fact is copied from an official government page, PDF, Act or Rules, with the URL and the date it was checked. If the state does not publish something, the page says "Not published by the state" instead of guessing. No ads and no cookies (JavaScript only on the calculator page, plus the privacy-friendly GoatCounter visit counter).
 
 Sister site: [Where to Complain](https://rudracodeshere.github.io/where-to-complain/) (consumer complaint escalation ladders).
 
@@ -31,7 +31,7 @@ The site has its own `docs/sitemap.xml` and `docs/robots.txt`, and robots.txt po
 
 ## Analytics
 
-None. There is no visit counter, so the privacy page says so. Search data comes from Bing Webmaster Tools.
+GoatCounter (free, no cookies) is live since 2026-10-27. It reuses site #1's counter code, `https://where-to-complain.goatcounter.com/count`, so visits land in the same dashboard: https://where-to-complain.goatcounter.com (account email: Boss's; login needs Boss). Both sites are on rudracodeshere.github.io, so pages are told apart by path: filter the dashboard on `/certificate-guide-india/` for this site. The snippet is in the layout in build.py, so every new page gets it. The privacy page describes what GoatCounter records. Search data comes from Bing Webmaster Tools.
 
 ## How it is built
 

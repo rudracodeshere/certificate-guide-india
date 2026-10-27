@@ -122,7 +122,7 @@
   },
   {
    "q": "Is my data sent anywhere?",
-   "a": "No. The dates stay in your browser. The page has no analytics."
+   "a": "No. The dates stay in your browser. The page counts visits with GoatCounter, which sets no cookies and does not receive the dates you type."
   },
   {
    "q": "Which certificates does it cover?",

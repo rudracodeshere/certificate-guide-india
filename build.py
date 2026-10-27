@@ -6,7 +6,8 @@ Usage:  python3 build.py            # build everything into docs/
                                     # SEO/schema/copy rules in DESIGN.md that a machine can check
 
 One JSON file per content page lives in data/pages/. See README.md for the schema.
-No third-party packages. No web fonts. JavaScript only for tools (assets/*.js, copied to docs/). No analytics.
+No third-party packages. No web fonts. JavaScript only for tools (assets/*.js, copied to docs/) plus the GoatCounter counter
+(the same where-to-complain.goatcounter.com code as site #1; pages are told apart by path).
 CSS lives in style.css (source) and is copied to docs/style.css. Design rules: DESIGN.md.
 """
 import html, json, re, sys, shutil
@@ -110,6 +111,7 @@ def layout(*, title, desc, canon_path, body, depth, jsonld=None, noindex=False, 
 <p>{E(SITE['name'])} is an independent, free guide. {E(FOOTER_NOTE)}</p>
 <p><a href="{r}about/">About &amp; disclaimer</a> · <a href="{r}how-we-check-facts/">How we check facts</a> · <a href="{r}privacy/">Privacy</a> · <a href="{E(ISSUES)}">Report an error</a> · <a href="{r}sitemap.xml">Sitemap</a> · <a href="{E(SITE['repo_url'])}">Source on GitHub</a></p>
 </div></footer>
+<script data-goatcounter="https://where-to-complain.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
 </body>
 </html>
 """
@@ -322,7 +324,8 @@ def render_home(pages_sorted):
             f'<h2>How we keep it honest</h2><ul>'
             f'<li>Facts come only from official government pages, PDFs and Acts, linked on each page with the date checked.</li>'
             f'<li>If the state does not publish something, we write "Not published by the state" instead of guessing.</li>'
-            f'<li>No sign-up, no ads, no cookies and no analytics. We never ask for your documents or personal details.</li>'
+            f'<li>No sign-up, no ads, no cookies. Visits are counted with GoatCounter, a privacy-friendly counter: '
+            f'see the <a href="privacy/">privacy page</a>. We never ask for your documents or personal details.</li>'
             f'<li>Read <a href="how-we-check-facts/">how we check facts</a> and how to report an error.</li></ul>'
             f'<p>Stuck with a complaint against a bank, insurer or company instead? Our sister site <a href="https://rudracodeshere.github.io/where-to-complain/" rel="noopener">Where to Complain</a> covers those escalation ladders.</p>'
             f'<section class="verified"><p><strong>Disclaimer.</strong> {E(DISCLAIMER)}</p></section>')
@@ -337,7 +340,7 @@ def render_about():
 <li>Every document list, fee, time limit and officer is read from an official state portal, checklist PDF, Act or Rules and linked on the page with the date we checked it.</li>
 <li>If the state does not publish something, the page says "Not published by the state" or leaves it out. If two official pages disagree, the page shows both. We do not fill gaps from forums, news articles or agents' websites.</li>
 <li>Appeal templates follow the fields of the official appeal forms and are free to copy. They contain only blanks for you to fill in.</li>
-<li>We do not publish anyone's personal story, and we do not collect your data. This site has no forms that send data, no ads and no analytics.</li>
+<li>We do not publish anyone's personal story, and we do not collect your data. This site has no forms that send data and no ads. It uses GoatCounter, a privacy-friendly counter that sets no cookies, only to count page visits.</li>
 </ul>
 <p>The full method is on <a href="../how-we-check-facts/">how we check facts</a>. What the host records is on the <a href="../privacy/">privacy page</a>.</p>
 <h2>Disclaimer</h2>
@@ -354,13 +357,22 @@ def render_about():
                   canon_path="about/", body=body, depth=1, current="about", crumbs=[("Home", ""), ("About", None)])
 
 TRUST_CHECKED = "2026-10-26"
+GOATCOUNTER_CHECKED = "2026-10-27"  # goatcounter.com/help/privacy (policy dated 8 June 2025)
 
 def render_privacy():
     c = fmt_date(TRUST_CHECKED)
+    g = fmt_date(GOATCOUNTER_CHECKED)
     body = f"""<h1>Privacy: what this site records</h1>
-<p class="lede">This site has no accounts, no ads and no analytics, and it sets no cookies. We do not run any visit counter. The pages are hosted on GitHub Pages. Nothing you type into the certificate calculator leaves your browser.</p>
-<h2>No analytics</h2>
-<p>We do not use Google Analytics, GoatCounter or any other visit counter on this site, so we do not see who visits or which pages they read. If that ever changes, this page will say so first.</p>
+<p class="lede">This site has no accounts, no forms that send data and no ads, and it sets no cookies. Visits are counted with GoatCounter, a privacy-friendly counter, and the pages are hosted on GitHub Pages. Nothing you type into the certificate calculator leaves your browser.</p>
+<h2>What GoatCounter counts</h2>
+<p>According to the <a href="https://www.goatcounter.com/help/privacy" rel="noopener">GoatCounter privacy policy</a> (checked {g}):</p>
+<ul>
+<li>It stores counts of the page path, the referrer, the browser and operating system name and version, the country (worked out from the IP address), the language and the screen size.</li>
+<li>It does not store IP addresses, the full browser User-Agent or any tracking ID, and it stores nothing in your browser: no cookies and no localStorage.</li>
+<li>To tell a new visit from a repeat one, it keeps a record of the site, IP address and User-Agent in memory for up to 8 hours.</li>
+<li>It says it does not share this information with third parties.</li>
+</ul>
+<p>The counter is shared with our sister site, Where to Complain, and the two sites are told apart by the page path. It does not see the dates you type into the calculator. You can block the counter with any content blocker. The site works the same without it.</p>
 <h2>What the host records</h2>
 <p>The site is served by GitHub Pages. GitHub's documentation says that when a GitHub Pages site is visited, the visitor's IP address is logged and stored for security purposes (<a href="https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages" rel="noopener">What is GitHub Pages?</a>, checked {c}). See the <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement" rel="noopener">GitHub General Privacy Statement</a> for more.</p>
 <h2>What we never ask for</h2>
@@ -369,7 +381,7 @@ def render_privacy():
 <p>Open an issue at <a href="{E(ISSUES)}">{E(ISSUES)}</a>. Issues are public, so do not post personal details there.</p>
 <p>See also <a href="../how-we-check-facts/">how we check facts</a> and the <a href="../about/">about page</a>.</p>"""
     return layout(title=f"Privacy | {SITE['name']}",
-                  desc="Privacy at Certificate Guide India: no cookies, no analytics, no ads and no visit counter. What GitHub Pages hosting records, from GitHub's own documentation.",
+                  desc="Privacy at Certificate Guide India: no cookies, no forms, no ads. What the GoatCounter visit counter and GitHub Pages hosting record, from their own policies.",
                   canon_path="privacy/", body=body, depth=1, crumbs=[("Home", ""), ("Privacy", None)])
 
 def render_method():
@@ -665,7 +677,7 @@ def render_llms(pages_sorted):
             out.append(f"- [{s['name']}]({BASE}{s['slug']}/): {s['blurb']}")
     out += ["", "## About", "", f"- [About and disclaimer]({BASE}about/): what the site is and is not.",
             f"- [How we check facts]({BASE}how-we-check-facts/): official sources only, dated checks, corrections.",
-            f"- [Privacy]({BASE}privacy/): no cookies and no analytics; what the host records.",
+            f"- [Privacy]({BASE}privacy/): no cookies; what the GoatCounter visit counter and the host record.",
             f"- [Sitemap]({BASE}sitemap.xml)", ""]
     return "\n".join(out)
 

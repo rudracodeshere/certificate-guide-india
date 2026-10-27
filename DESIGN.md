@@ -64,7 +64,7 @@ Things to avoid (from the frontend-design skill): uppercase eyebrow labels, iden
 
 9. **Share previews and icons**: every page has `og:image` (`og.png`, 1200x630) and `twitter:card` summary_large_image, plus `favicon.svg`. Regenerate the images with `python3 tools/make_images.py` only if the brand changes. (`--check`)
 10. **No en or em dashes anywhere** in visible text, titles or descriptions (use a hyphen, colon, comma or full stop). (`--check`)
-11. **Trust pages**: `/how-we-check-facts/` and `/privacy/` are linked from the footer, About and home. Contact is the repo's GitHub issues page only: never publish a personal email or a person's name. This site has no analytics and no cookies, but GitHub Pages logs visitor IPs; say exactly that, never a bare "no tracking".
+11. **Trust pages**: `/how-we-check-facts/` and `/privacy/` are linked from the footer, About and home. Contact is the repo's GitHub issues page only: never publish a personal email or a person's name. Never claim "no tracking" or "no analytics": the site uses GoatCounter (no cookies) and GitHub Pages logs IPs; say exactly that.
 12. **Clusters**: every guide has at least 3 inbound links from other pages' main content (related lists, hubs, in-text links). (`--check`)
 
 ## Nightly page checklist
