@@ -1,5 +1,15 @@
 # Changelog
 
+## 2026-10-29 (IST)
+
+- New guide: EWS certificate (`/ews-certificate-india/`). Income below Rs 8 lakh, the land, flat and plot limits, the family definition, how DoPT says to measure property, who issued it under the 2019 memorandum and how the 15 March 2024 memorandum moved that choice to States and UTs, the Annexure-I format, which financial year and validity year it must show, and a template asking the issuing officer to correct a certificate. Sources: DoPT memoranda of 31 January 2019 and 15 March 2024 and the FAQ of 19 September 2022 (full-text copies on dcmsme.gov.in and csir.res.in, because the dopt.gov.in PDF is gone), plus the PIB Lok Sabha reply of 5 August 2026.
+- New guide: income certificate in Uttar Pradesh (`/income-certificate-uttar-pradesh/`). Tehsildar, 20 working days, first appeal to the SDM within 30 days, second appeal to the DM within 60 days, no court fee, penalty up to Rs 5,000, and why some reports say 15 days (that limit is for grievances about the certificate). First appeal template. Sources: CMO Janhit Guarantee list of 14 December 2022, Revenue notification of 15 January 2011, notification of 21 October 2022, the 2011 Act and Rules.
+- New hubs: Uttar Pradesh and EWS certificate. UP income row and a UP and EWS paragraph added to the pillar. Links added from the pillar and the Maharashtra and Bihar guides.
+- tools/check_pages.py now reads hub slugs from site.json, so a new sector hub is not checked as a guide.
+- Karnataka (#6, #7) skipped again: the Karnataka portals still fail TLS from the build box.
+- Left out: fee, documents and validity for UP (edistrict.up.gov.in did not open), and the EWS fee and time limit (set by each state, not DoPT).
+- Facts checked 29 October 2026.
+
 ## 2026-10-28 (IST)
 
 - New guide: Bihar caste, income and residence certificates under the RTPS Act (`/bihar-certificates-rtps/`). It covers the time limits (10 working days at CO, SDO or DM level; tatkal 2 working days at CO level), the application form numbers, validity, the first and second appeal officers and limits, the no-fee appeal, the hearing notice, and the officer penalty (Rs 250 a day up to Rs 5,000). It includes a first appeal template and 5 FAQs.

@@ -7,7 +7,7 @@ A free static guide to Indian government certificates: which documents, what fee
 
 Sister site: [Where to Complain](https://rudracodeshere.github.io/where-to-complain/) (consumer complaint escalation ladders).
 
-## Pages (as of 2026-10-28)
+## Pages (as of 2026-10-29)
 
 | Page | URL |
 |------|-----|
@@ -17,8 +17,10 @@ Sister site: [Where to Complain](https://rudracodeshere.github.io/where-to-compl
 | Domicile certificate in Maharashtra | https://rudracodeshere.github.io/certificate-guide-india/domicile-certificate-maharashtra/ |
 | Caste certificate in Maharashtra | https://rudracodeshere.github.io/certificate-guide-india/caste-certificate-maharashtra/ |
 | Bihar caste, income and residence certificates (RTPS time limits and appeals) | https://rudracodeshere.github.io/certificate-guide-india/bihar-certificates-rtps/ |
+| EWS certificate: Rs 8 lakh rule, who issues it, format | https://rudracodeshere.github.io/certificate-guide-india/ews-certificate-india/ |
+| Income certificate in Uttar Pradesh (20 working days, appeals) | https://rudracodeshere.github.io/certificate-guide-india/income-certificate-uttar-pradesh/ |
 | Is my certificate late? calculator (tool) | https://rudracodeshere.github.io/certificate-guide-india/is-my-certificate-late-calculator/ |
-| Hubs: Maharashtra, Bihar, Income certificate, Domicile certificate, Caste certificate | https://rudracodeshere.github.io/certificate-guide-india/maharashtra/, https://rudracodeshere.github.io/certificate-guide-india/bihar/, https://rudracodeshere.github.io/certificate-guide-india/income-certificate/, https://rudracodeshere.github.io/certificate-guide-india/domicile-certificate/, https://rudracodeshere.github.io/certificate-guide-india/caste-certificate/ |
+| Hubs: Maharashtra, Bihar, Uttar Pradesh, EWS certificate, Income certificate, Domicile certificate, Caste certificate | https://rudracodeshere.github.io/certificate-guide-india/maharashtra/, https://rudracodeshere.github.io/certificate-guide-india/bihar/, https://rudracodeshere.github.io/certificate-guide-india/uttar-pradesh/, https://rudracodeshere.github.io/certificate-guide-india/ews-certificate/, https://rudracodeshere.github.io/certificate-guide-india/income-certificate/, https://rudracodeshere.github.io/certificate-guide-india/domicile-certificate/, https://rudracodeshere.github.io/certificate-guide-india/caste-certificate/ |
 | About and disclaimer | https://rudracodeshere.github.io/certificate-guide-india/about/ |
 | How we check facts | https://rudracodeshere.github.io/certificate-guide-india/how-we-check-facts/ |
 | Privacy | https://rudracodeshere.github.io/certificate-guide-india/privacy/ |

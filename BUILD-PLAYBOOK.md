@@ -85,6 +85,9 @@ Skipped: running it. It needs a Google Cloud OAuth client, which means a sign-up
 - [ ] Open each source today and confirm the exact figure is on it. Anything unconfirmed is cut, not hedged.
 - [ ] Data goes in the page data file; no fact appears only in prose.
 - [ ] Hindi state PDFs in legacy fonts: render them with `pdftoppm` and read the images, because pdftotext output is garbage. Portal document links are relative, so resolve them against the page that links them (Bihar: `/resources/homePage/10/Document/`).
+- [ ] If a ministry's own PDF is gone (404) or its host fails TLS, look for the same circular forwarded in full by another government office (other ministries, CSIR, PSUs on .gov.in or .res.in). Cite that copy and say on the page why. Check later memoranda that modify it (DoPT EWS: the 2024 OM moved the issuing authority choice to States).
+- [ ] A consolidated web list can have copying errors. When it links the gazette notification, read the gazette row and follow the gazette (UP Janhit list: domicile first appeal officer differs). News figures that differ from the gazette usually mix up two services; explain the difference on the page.
+- [ ] Some state hosts work only with `curl -k` (incomplete certificate chain, e.g. upcmo.up.nic.in, dcmsme.gov.in). That is still the official source; fetch with -k and cite the https URL.
 - [ ] If every official source for a state fails from the box and from the web fetcher, skip the page and record why in QUEUE.md. Never use a third-party or ambiguous listing instead.
 
 **B. Writing**
@@ -103,7 +106,7 @@ Skipped: running it. It needs a Google Cloud OAuth client, which means a sign-up
 
 **D. Clusters and internal links**
 - [ ] Link up to the hub, and add the page to the hub's list.
-- [ ] New state sector: add its line to `HUB_DESC` in build.py and its h1/title/blurb in site.json first, or the build fails with a KeyError.
+- [ ] New state sector: add its line to `HUB_DESC` in build.py and its h1/title/blurb in site.json first, or the build fails with a KeyError. Keep site.json at indent=2 when editing it with a script. tools/check_pages.py reads hub slugs from site.json, so no edit is needed there.
 - [ ] Link to 2-3 sibling guides, and add a link back from at least 2 of them, so the page has 3+ inbound links.
 - [ ] Descriptive anchors (never "click here"). Within 2 clicks of home.
 
