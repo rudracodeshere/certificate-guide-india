@@ -1,0 +1,193 @@
+{
+ "slug": "income-certificate-uttar-pradesh",
+ "order": 9,
+ "sector": "uttar-pradesh",
+ "also_in": [
+  "income-certificate"
+ ],
+ "kind": "guide",
+ "title": "Income certificate in UP: 20 working days, then appeal",
+ "h1": "Income certificate in Uttar Pradesh: the 20 working day limit and how to appeal (checked October 2026)",
+ "description": "UP income certificate: the Tehsildar must issue it in 20 working days under the Janhit Guarantee Act. Who hears your appeal, the deadlines and a free template.",
+ "direct_answer": "In Uttar Pradesh the Tehsildar must issue an income certificate within 20 working days under the Uttar Pradesh Janhit Guarantee Adhiniyam, 2011. The state's service list names edistrict.up.gov.in as the portal. If it is late or rejected, appeal to the Sub-Divisional Magistrate within 30 days, then to the District Magistrate within 60 days.",
+ "question": {
+  "q": "How many days does an income certificate take in UP?",
+  "a": "Up to 20 working days. The Revenue Department notification of 15 January 2011 under the Janhit Guarantee law gives the Tehsildar 20 working days, and the state's service list of 14 December 2022 still shows the same limit. Public holidays are not counted."
+ },
+ "audience": "For anyone in Uttar Pradesh who needs an income certificate for a scholarship, an admission, a pension or a scheme, and wants to know when it is late.",
+ "verified": "2026-10-29",
+ "published": "2026-10-29",
+ "primary_source": "https://upcmo.up.nic.in/janhit.htm",
+ "blocks": [
+  {
+   "type": "answer",
+   "items": [
+    "<strong>Apply online:</strong> the Janhit Guarantee service list on the <a href=\"https://upcmo.up.nic.in/janhit.htm\" rel=\"noopener\">Chief Minister's Office website</a> names <a href=\"https://edistrict.up.gov.in\" rel=\"noopener\">edistrict.up.gov.in</a> as the portal for income, caste and domicile certificates.",
+    "<strong>Who issues it:</strong> the Tehsildar (designated officer).",
+    "<strong>Time limit:</strong> 20 working days. Public holidays are not counted (rule 5 of the Janhit Guarantee Rules, 2011).",
+    "<strong>Late or rejected?</strong> First appeal to the Sub-Divisional Magistrate within 30 days, then a second appeal to the District Magistrate within 60 days of the first appeal decision. No court fee is charged for an appeal.",
+    "<strong>Fee, documents and validity:</strong> not published in the official sources we could open. See the note at the end."
+   ]
+  },
+  {
+   "type": "table",
+   "id": "time-limits",
+   "title": "Uttar Pradesh time limits for revenue certificates (Janhit Guarantee notification, 15 January 2011)",
+   "headers": [
+    "Certificate",
+    "Issued by",
+    "Time limit",
+    "First appeal (decision time)",
+    "Second appeal"
+   ],
+   "rows": [
+    [
+     "Income certificate",
+     "Tehsildar",
+     "20 working days",
+     "Sub-Divisional Magistrate (30 working days)",
+     "District Magistrate"
+    ],
+    [
+     "Caste certificate",
+     "Tehsildar",
+     "20 working days",
+     "Sub-Divisional Magistrate (30 working days)",
+     "District Magistrate"
+    ],
+    [
+     "Domicile certificate",
+     "Sub-Divisional Magistrate",
+     "20 working days",
+     "District Magistrate (30 working days)",
+     "Divisional Commissioner"
+    ]
+   ]
+  },
+  {
+   "type": "notice",
+   "html": "<p>Rows copied from the English translation of Revenue Department notification No. 2198/I-14-2010-33-(100)-2010 T.C.-III dated 15 January 2011, published in the Uttar Pradesh Gazette. The consolidated service list on upcmo.up.nic.in, dated 14 December 2022, links the income certificate row to the same notification and shows the same officers and days. For the domicile row, that web list shows the Sub-Divisional Magistrate as first appeal officer, but the Gazette names the District Magistrate, so we follow the Gazette. edistrict.up.gov.in did not open for us on 29 October 2026, so we could not check it for a newer limit.</p>"
+  },
+  {
+   "type": "section",
+   "id": "how-long",
+   "title": "When does the 20 day clock start?",
+   "html": "<p>Under section 5(1) of the Act, the time limit starts on the date you submit the application to the designated officer, or to a person under that officer who is authorised to receive it. Your application must be acknowledged. Rule 4 says the acknowledgement is given in Form 1. If your documents are complete, it must show the last date by which the service will be given. If documents are missing, the acknowledgement says so and gives no date. Within the time limit the Tehsildar must either issue the certificate or reject the application with reasons in writing (section 5(2)). Public holidays are left out when counting (rule 5), so the 20 days are working days.</p>"
+  },
+  {
+   "type": "section",
+   "id": "15-days",
+   "title": "Is it 15 days or 20 days?",
+   "html": "<p>A Public Service Management Section (Lok Seva Prabandhan Anubhag) <a href=\"https://upcmo.up.nic.in/janhit/ADHISOOCHNA_DT_21.10.2022.PDF\" rel=\"noopener\">notification of 21 October 2022</a> added new services to the Janhit Guarantee list, including \"redressal of grievances related to income certificate\". For that grievance service, the Tehsildar has 15 working days, the first appeal goes to the Sub-Divisional Magistrate and the second appeal to the District Magistrate, each with 15 working days. The 15 days apply to a complaint about an income certificate. The time limit for issuing the certificate itself is still 20 working days in the state's list of 14 December 2022, which shows both services as separate rows.</p>"
+  },
+  {
+   "type": "steps",
+   "title": "Is my certificate late? Who to appeal to and by when",
+   "rows": [
+    {
+     "who": "1. First appeal",
+     "contact": "To the first appeal officer: the Sub-Divisional Magistrate for an income certificate.",
+     "deadline": "Within 30 days of the rejection or of the 20 working days running out (section 6(1)). A late appeal can be admitted for sufficient cause. Decision time in the notification: 30 working days."
+    },
+    {
+     "who": "2. Second appeal",
+     "contact": "To the second appellate authority: the District Magistrate for an income certificate.",
+     "deadline": "Within 60 days of the first appeal decision (section 6(3)). A late appeal can be admitted for sufficient cause."
+    },
+    {
+     "who": "No acknowledgement given",
+     "contact": "If the office does not acknowledge your application, apply straight to the first appeal officer (section 6(5)(a)).",
+     "deadline": "Not set in the Act."
+    },
+    {
+     "who": "Order not obeyed",
+     "contact": "If the Tehsildar does not follow the first appeal order to issue the certificate, apply straight to the second appellate authority (section 6(5)(b)).",
+     "deadline": "Not set in the Act."
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "appeal-rules",
+   "title": "What the appeal rules say",
+   "html": "<p>The Uttar Pradesh Janhit Guarantee Rules, 2011 set these points:</p><ul><li>No court fee is payable with an appeal (rule 7).</li><li>The appeal must give your name and address, the name and address of the officer whose decision you appeal against, the details of the order, the grounds and the relief you want (rule 8). If the office refused to acknowledge your application, give the date of the application and the name and address of the officer you gave it to.</li><li>Attach a self attested copy of the order, copies of the documents you mention and an index of the documents (rule 9).</li></ul><p>Under section 7 of the Act, if the officer failed to give the service without sufficient and reasonable cause, the second appellate authority can impose a lump sum penalty of Rs 500 to Rs 5,000. For delay it can impose Rs 250 a day, up to Rs 5,000. It can also order that you be paid compensation out of that penalty, not more than the penalty imposed (section 7(3)). The officer must be heard before any penalty.</p>"
+  },
+  {
+   "type": "section",
+   "id": "portal-down",
+   "title": "If the portal does not work",
+   "html": "<p>The note on the Janhit Guarantee service list says that if a portal link does not work, has errors or is not fully online, you can complain on the state's IGRS portal <a href=\"https://samadhan.gov.in/\" rel=\"noopener\">samadhan.gov.in</a> under the category for the running of departmental websites and applications, or call the Chief Minister's Helpline 1076. The department that gives the service resolves it.</p>"
+  },
+  {
+   "type": "section",
+   "id": "not-published",
+   "title": "What we could not confirm",
+   "html": "<p>The Janhit Guarantee notifications, Act and Rules do not give a fee, a list of documents or a validity period for the income certificate. These would be on edistrict.up.gov.in, which did not open for us on 29 October 2026. Not published in the sources we could check, so we leave them out rather than guess. Check the e-District portal or your tehsil before you apply.</p>"
+  }
+ ],
+ "templates": [
+  {
+   "title": "Free first appeal template (UP Janhit Guarantee, rule 8 fields)",
+   "intro_html": "Free to copy. It follows the fields listed in rule 8 of the Uttar Pradesh Janhit Guarantee Rules, 2011. Replace everything in [square brackets] and delete lines that do not apply.",
+   "text": "First appeal under section 6(1) of the Uttar Pradesh Janhit Guarantee Adhiniyam, 2011\n\nTo: The Sub-Divisional Magistrate, [tehsil or sub-division name], [district]\n\n1. Name and address of the appellant: [your full name and address, mobile number]\n2. Name and address of the designated officer: Tehsildar, [tehsil name], [district]\n3. Service applied for: Income certificate, application number [number], submitted on [date]\n4. Order appealed against: [the rejection order dated (date), in short] OR [no decision within 20 working days; the time limit ended on (date)] OR [the application was not acknowledged; it was given on (date) to (name and address of the officer)]\n5. Grounds of appeal: [why the rejection is wrong, or that no certificate was issued within the time limit]\n6. Relief sought: Direct the designated officer to issue the income certificate, and take action under section 7 of the Act.\n7. Other information: [anything else that helps]\n\nDocuments attached:\n(a) Self attested copy of the rejection order or the acknowledgement\n(b) Copies of the documents referred to above\n(c) Index of documents\n\nPlace: [place]\nDate: [date]\nSignature: [your signature]"
+  }
+ ],
+ "related": [
+  "certificate-time-limits-india",
+  "bihar-certificates-rtps",
+  "income-certificate-maharashtra",
+  "ews-certificate-india",
+  "is-my-certificate-late-calculator",
+  "uttar-pradesh",
+  "income-certificate"
+ ],
+ "faq": [
+  {
+   "q": "How many days does an income certificate take in UP?",
+   "a": "Up to 20 working days from the Tehsildar, under the Janhit Guarantee notification of 15 January 2011. Public holidays are not counted."
+  },
+  {
+   "q": "Who issues the income certificate in Uttar Pradesh?",
+   "a": "The Tehsildar is the designated officer in the Janhit Guarantee service list. The list names edistrict.up.gov.in as the portal."
+  },
+  {
+   "q": "Where do I appeal if my UP income certificate is late?",
+   "a": "File a first appeal with the Sub-Divisional Magistrate within 30 days. If that fails, file a second appeal with the District Magistrate within 60 days of the first appeal decision."
+  },
+  {
+   "q": "Is there a fee for the appeal?",
+   "a": "No court fee is payable with an appeal under rule 7 of the Uttar Pradesh Janhit Guarantee Rules, 2011."
+  },
+  {
+   "q": "Can the officer be penalised for delay?",
+   "a": "Yes. The second appellate authority can impose Rs 250 a day for delay, up to Rs 5,000, or a lump sum of Rs 500 to Rs 5,000. It can order compensation to you out of the penalty."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Chief Minister's Office, Uttar Pradesh: Janhit Guarantee Act online services, department wise list of 382 services, dated 14 December 2022 (Revenue Department rows 280 to 287)",
+   "url": "https://upcmo.up.nic.in/janhit.htm",
+   "checked": "2026-10-29"
+  },
+  {
+   "label": "Revenue Department notification No. 2198/I-14-2010-33-(100)-2010 T.C.-III dated 15 January 2011, Uttar Pradesh Gazette (Extraordinary), Hindi with English translation: income, caste and domicile certificate officers and time limits",
+   "url": "https://upcmo.up.nic.in/janhit/ADHISOOCHNA-DT_15.01.2011.PDF",
+   "checked": "2026-10-29"
+  },
+  {
+   "label": "Public Service Management Section notification No. 556/91-2022-09-2014 dated 21 October 2022 (in Hindi): grievance redressal services for income, caste and domicile certificates, 15 working days",
+   "url": "https://upcmo.up.nic.in/janhit/ADHISOOCHNA_DT_21.10.2022.PDF",
+   "checked": "2026-10-29"
+  },
+  {
+   "label": "Uttar Pradesh Janhit Guarantee Adhiniyam, 2011 (U.P. Act No. 3 of 2011), Uttar Pradesh Gazette of 4 March 2011, Hindi with English translation: sections 5, 6 and 7",
+   "url": "https://upcmo.up.nic.in/janhit/JGA_ACT_04.03.2011.PDF",
+   "checked": "2026-10-29"
+  },
+  {
+   "label": "Uttar Pradesh Janhit Guarantee Rules, 2011, Uttar Pradesh Gazette of 23 December 2011, Hindi with English translation: rules 4, 5, 7, 8 and 9",
+   "url": "https://upcmo.up.nic.in/janhit/JGA_RULES_23.12.2011.PDF",
+   "checked": "2026-10-29"
+  }
+ ]
+}

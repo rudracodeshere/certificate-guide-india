@@ -41,6 +41,20 @@
       "blurb": "Caste, income and residence certificates applied for on the RTPS portal, with the time limits and appeals under the Bihar Right to Public Services Act, 2011."
     },
     {
+      "slug": "uttar-pradesh",
+      "name": "Uttar Pradesh",
+      "h1": "Uttar Pradesh certificates: Janhit Guarantee time limits and appeals",
+      "title": "Uttar Pradesh certificates: time limits and appeals",
+      "blurb": "Income, caste and domicile certificates on e-District, with the time limits and appeals under the Uttar Pradesh Janhit Guarantee Adhiniyam, 2011."
+    },
+    {
+      "slug": "ews-certificate",
+      "name": "EWS certificate",
+      "h1": "EWS certificate: the central rules and state guides",
+      "title": "EWS certificate: rules, format and state guides",
+      "blurb": "The Income and Asset Certificate for the 10% EWS quota: who qualifies, who issues it and the format."
+    },
+    {
       "slug": "karnataka",
       "name": "Karnataka",
       "h1": "Karnataka certificates",

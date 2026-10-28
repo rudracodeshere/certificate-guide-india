@@ -106,6 +106,13 @@
      "10 working days (2 under Tatkal)",
      "Circle Officer",
      "<a href=\"../bihar-certificates-rtps/\">Caste, income and residence certificates in Bihar</a>"
+    ],
+    [
+     "Income certificate",
+     "Uttar Pradesh",
+     "20 working days",
+     "Tehsildar",
+     "<a href=\"../income-certificate-uttar-pradesh/\">Income certificate in Uttar Pradesh</a>"
     ]
    ]
   },
@@ -140,7 +147,7 @@
    "type": "section",
    "title": "Bihar and other states",
    "id": "other-states",
-   "html": "<p>In Bihar the Bihar Right to Public Services Act, 2011 applies. The General Administration Department gives the Circle Officer 10 working days for a caste, income or residence certificate, and public holidays are not counted. A first appeal goes to the Sub-Divisional Officer within 30 days, and a second appeal to the District Magistrate within 60 days. See <a href=\"../bihar-certificates-rtps/\">certificates in Bihar under RTPS</a>.</p><p>We publish a state only after checking its own official list of services and appeal rules. Karnataka is next in our queue. Until then, look for your state's Right to Services list on its official portal.</p>"
+   "html": "<p>In Bihar the Bihar Right to Public Services Act, 2011 applies. The General Administration Department gives the Circle Officer 10 working days for a caste, income or residence certificate, and public holidays are not counted. A first appeal goes to the Sub-Divisional Officer within 30 days, and a second appeal to the District Magistrate within 60 days. See <a href=\"../bihar-certificates-rtps/\">certificates in Bihar under RTPS</a>.</p><p>In Uttar Pradesh the Uttar Pradesh Janhit Guarantee Adhiniyam, 2011 applies. A Revenue Department notification of 15 January 2011 gives the Tehsildar 20 working days for an income or caste certificate. A first appeal goes to the Sub-Divisional Magistrate within 30 days, and a second appeal to the District Magistrate within 60 days. See <a href=\"../income-certificate-uttar-pradesh/\">the income certificate in Uttar Pradesh</a>.</p><p>For the EWS Income and Asset Certificate used for central government jobs, each State or UT decides who issues it and sets the time limit. See <a href=\"../ews-certificate-india/\">the EWS certificate guide</a>.</p><p>We publish a state only after checking its own official list of services and appeal rules. Karnataka is next in our queue. Until then, look for your state's Right to Services list on its official portal.</p>"
   },
   {
    "type": "section",
@@ -155,7 +162,9 @@
   "caste-certificate-maharashtra",
   "bihar-certificates-rtps",
   "is-my-certificate-late-calculator",
-  "maharashtra"
+  "maharashtra",
+  "income-certificate-uttar-pradesh",
+  "ews-certificate-india"
  ],
  "faq": [
   {

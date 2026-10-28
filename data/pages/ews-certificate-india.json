@@ -1,0 +1,191 @@
+{
+ "slug": "ews-certificate-india",
+ "order": 8,
+ "sector": "ews-certificate",
+ "also_in": [
+  "income-certificate"
+ ],
+ "kind": "guide",
+ "title": "EWS certificate: Rs 8 lakh rule, who issues it, format",
+ "h1": "EWS certificate for central jobs: who qualifies, who issues it, the format (checked October 2026)",
+ "description": "EWS Income and Asset Certificate: family income below Rs 8 lakh, land and home size limits, who issues it now, the format and mistakes that get it rejected.",
+ "direct_answer": "The EWS Income and Asset Certificate is issued by an officer your State or Union Territory names. Under the DoPT office memorandum of 31 January 2019, your family's gross annual income must be below Rs 8 lakh. You must not be covered by SC, ST or OBC reservation, and owning land or a home above set sizes rules you out.",
+ "question": {
+  "q": "Who is eligible for an EWS certificate?",
+  "a": "For central government jobs, a person not covered by SC, ST or OBC reservation whose family's gross annual income is below Rs 8 lakh. The family must not own 5 acres of farm land or more, a flat of 1,000 sq ft or more, or a residential plot above the set size."
+ },
+ "audience": "For anyone applying for a central government job under the 10% EWS quota who needs the Income and Asset Certificate, or who has been told their certificate has a mistake.",
+ "verified": "2026-10-29",
+ "published": "2026-10-29",
+ "primary_source": "https://dcmsme.gov.in/employ-corner/d/Office-order-15-2-2019.pdf",
+ "blocks": [
+  {
+   "type": "answer",
+   "items": [
+    "<strong>What it is:</strong> the Income and Asset Certificate in the format at Annexure-I of DoPT office memorandum No. 36039/1/2019-Estt (Res) dated 31 January 2019. It proves you belong to the Economically Weaker Sections (EWS) for the 10% reservation in direct recruitment to central government posts.",
+    "<strong>Income limit:</strong> family gross annual income below Rs 8 lakh from all sources (salary, agriculture, business, profession and so on) for the financial year before the year you apply.",
+    "<strong>Assets that rule you out</strong> whatever the income: 5 acres of agricultural land or more, a residential flat of 1,000 sq ft or more, a residential plot of 100 sq yards or more in a notified municipality, or 200 sq yards or more elsewhere.",
+    "<strong>Who issues it:</strong> since DoPT's office memorandum of 15 March 2024, each State Government or UT Administration decides which officers can issue it and should list them on its website.",
+    "<strong>Fee and time limit:</strong> not set by the central rules. DoPT's 2022 FAQ says the time limit is decided by the State or UT."
+   ]
+  },
+  {
+   "type": "notice",
+   "html": "<p>The original DoPT PDF link (dopt.gov.in) returned \"not found\" on 29 October 2026, and doptcirculars.nic.in did not open for us. We read the full text of each memorandum in copies forwarded by other central government offices: the Ministry of MSME (2019 memorandum) and CSIR (2022 FAQ and 2024 memorandum). A Ministry of Social Justice and Empowerment reply in the Lok Sabha on 5 August 2026 (PIB) confirms the same Rs 8 lakh and asset limits and says no change is under consideration.</p>"
+  },
+  {
+   "type": "section",
+   "id": "family",
+   "title": "Whose income and property count?",
+   "html": "<p>The 2019 memorandum (para 4.3) defines the family as the person seeking the benefit, their parents, brothers and sisters below 18, their spouse and children below 18. DoPT's FAQ of 19 September 2022 adds:</p><ul><li>Parents' income and property count even if you live separately from them (Q25).</li><li>Brothers, sisters and children aged 18 or more are not counted (Q26).</li><li>Grandparents' property not yet divided is not counted (Q4). Parents' property not yet divided is counted (Q1).</li><li>Income means gross income, as for income tax, and gross salary (Q15, Q17). Monthly pension and family pension count (Q16).</li><li>Land and property in different places or states are added together (para 4.2, FAQ Q2).</li></ul>"
+  },
+  {
+   "type": "table",
+   "id": "assets",
+   "title": "The property limits, and how DoPT says to measure them",
+   "headers": [
+    "Property",
+    "You are not eligible if the family owns",
+    "DoPT clarification (2022 FAQ)"
+   ],
+   "rows": [
+    [
+     "Agricultural land",
+     "5 acres or more",
+     "Land in different places is added together (Q2)."
+    ],
+    [
+     "Residential flat",
+     "1,000 sq ft or more",
+     "Counts total built up area, leaving out the staircase and common area (Q10). Commercial property counts too (Q3)."
+    ],
+    [
+     "Residential plot in a notified municipality",
+     "100 sq yards or more",
+     "The whole plot counts, built or not (Q7). Municipalities are as notified by the State or UT (Q24)."
+    ],
+    [
+     "Residential plot outside notified municipalities",
+     "200 sq yards or more",
+     "A 90 sq yard plot in a city plus a 90 sq yard plot in a village does not rule you out (Q5)."
+    ]
+   ]
+  },
+  {
+   "type": "section",
+   "id": "who-issues",
+   "title": "Who issues the certificate now",
+   "html": "<p>The 2019 memorandum (para 5.1) listed the officers who could issue it: a District Magistrate, Additional District Magistrate, Collector, Deputy Commissioner, Additional Deputy Commissioner, 1st Class Stipendiary Magistrate, Sub-Divisional Magistrate, Taluka Magistrate, Executive Magistrate or Extra Assistant Commissioner; a Chief Presidency Magistrate, Additional Chief Presidency Magistrate or Presidency Magistrate; a Revenue Officer not below the rank of Tehsildar; or the Sub-Divisional Officer of the area where you or your family normally live.</p><p>DoPT's office memorandum of 15 March 2024 changed this. It gives State Governments and UT Administrations the power to decide which authorities can issue the Income and Asset Certificate. It asks them to put the list of competent authorities on their websites, and says the 2019 instructions stand modified to that extent. So check your own state's revenue or e-District portal for the officer and the fee. The issuing officer checks your documents following the procedure your State or UT sets (2019 memorandum, para 5.2).</p>"
+  },
+  {
+   "type": "section",
+   "id": "format",
+   "title": "What the certificate must show",
+   "html": "<p>For central government posts the format cannot differ from state to state: it must follow Annexure-I (FAQ Q18). The Annexure-I certificate has:</p><ul><li>A certificate number, the date, and \"Valid for the year\" filled in.</li><li>Your name, your father's, mother's or spouse's name, your permanent address with district, state and pin code, and an attested photograph.</li><li>A statement that the family's gross annual income is below Rs 8 lakh for a named financial year, and that the family owns none of the listed property.</li><li>A statement that you belong to a caste not recognised as SC, ST or OBC (Central List).</li><li>The officer's signature with seal, name and designation. The seal or stamp with name and designation must be there (FAQ Q22).</li></ul>"
+  },
+  {
+   "type": "section",
+   "id": "which-year",
+   "title": "Which financial year must it show?",
+   "html": "<p>Income is for the financial year before the year of application (para 4.1). The date that counts is the closing date for applications for the post, unless the recruiter fixes another date (para 5.3). DoPT's example (FAQ Q23): if the closing date is 1 August 2022, the certificate should show income for 2021-22 and be valid for 2022-23. If the validity year is blank, the recruiter should refer it back to the issuing officer. If neither the financial year nor the validity year is written, it is a major discrepancy and the application may be rejected. A certificate issued after that date, for a later financial year, is also treated as a major discrepancy (FAQ Q21).</p>"
+  },
+  {
+   "type": "steps",
+   "title": "Getting the certificate right, step by step",
+   "rows": [
+    {
+     "who": "1. Check you qualify",
+     "contact": "Add up the family's gross income and property using the rules above. People in the Central List of SC, ST or OBC cannot use the central EWS quota, wherever they live (FAQ Q11). An OBC person whose caste is only in a State list can apply (FAQ Q12).",
+     "deadline": "Income is for the financial year before the year you apply."
+    },
+    {
+     "who": "2. Apply to your state's competent authority",
+     "contact": "Find the officer and the online service on your State or UT revenue or e-District portal. Ask for the central format (Annexure-I) if the certificate is for a central government job.",
+     "deadline": "Time limit set by your State or UT, not by DoPT (FAQ Q27). Apply well before the closing date of the job."
+    },
+    {
+     "who": "3. Check the certificate",
+     "contact": "Make sure the financial year, the \"Valid for the year\" line, your caste statement, and the officer's seal, name and designation are all there.",
+     "deadline": "Before the closing date for applications for the post."
+    },
+    {
+     "who": "4. If something is wrong",
+     "contact": "Ask the issuing officer to correct it, using the request below. Under para 5.4 a recruiter may appoint provisionally and verify the certificate through the issuing authority.",
+     "deadline": "Not set in the memorandum."
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "other-rules",
+   "title": "Other points in the 2019 memorandum and 2022 FAQ",
+   "html": "<ul><li>A person selected on merit can take an unreserved vacancy (para 7).</li><li>There is no age relaxation and no extra attempts for EWS candidates: the rules for the General category apply (FAQ Q28).</li><li>Each central government office must have a Grievance Redressal Officer for complaints of discrimination against EWS candidates in employment (para 9).</li><li>The memorandum applies to vacancies notified on or after 1 February 2019 (para 11). Where the memorandum and the FAQ differ, the memorandum prevails.</li></ul><p>The Constitution (One Hundred and Third Amendment) Act, 2019 added Articles 15(6) and 16(6), which allow up to 10% EWS reservation in admissions and in civil posts, as the PIB reply of 5 August 2026 says. Rules for admissions and for state government jobs can differ; this page covers the central jobs rule only.</p>"
+  },
+  {
+   "type": "section",
+   "id": "not-published",
+   "title": "What the central rules do not publish",
+   "html": "<p>The DoPT documents we checked do not set a fee, a time limit, a list of documents to attach, or an appeal route for a refused certificate. Those are for each State or UT. Not published by DoPT. Where we have checked a state's own rules, see the <a href=\"../ews-certificate/\">EWS certificate hub</a>.</p>"
+  }
+ ],
+ "templates": [
+  {
+   "title": "Free request to correct or complete an EWS certificate",
+   "intro_html": "Free to copy. It uses the format points in DoPT's office memorandum of 31 January 2019 and its FAQ of 19 September 2022. Replace everything in [square brackets] and delete lines that do not apply.",
+   "text": "To: The [designation of the issuing officer], [office address]\n\nSubject: Request to correct my Income and Asset Certificate for Economically Weaker Sections, Certificate No. [number] dated [date]\n\nSir or Madam,\n\nI, [your full name], son or daughter or spouse of [name], resident of [address with district and pin code], was issued the above Income and Asset Certificate by your office.\n\nI need it for [name of post and recruiting body], for which the closing date for applications is [date]. Under DoPT office memorandum No. 36039/1/2019-Estt (Res) dated 31 January 2019, the certificate must follow the format at Annexure-I and show income for the financial year before the year of application.\n\nThe certificate has these problems:\n[ ] The financial year of income is not written (it should be [for example 2025-26]).\n[ ] The \"Valid for the year\" line is blank (it should be [for example 2026-27]).\n[ ] The seal, name or designation of the officer is missing.\n[ ] [any other error, for example a wrong name or address]\n\nDoPT's FAQ of 19 September 2022 (Q22 and Q23) says these details must be on the certificate. I request you to issue a corrected certificate in the Annexure-I format. Copies of the certificate and my supporting documents are attached.\n\nPlace: [place]\nDate: [date]\nSignature: [your signature]\nMobile: [number]"
+  }
+ ],
+ "related": [
+  "income-certificate-uttar-pradesh",
+  "income-certificate-maharashtra",
+  "bihar-certificates-rtps",
+  "caste-certificate-maharashtra",
+  "certificate-time-limits-india",
+  "ews-certificate",
+  "income-certificate"
+ ],
+ "faq": [
+  {
+   "q": "What is the income limit for an EWS certificate?",
+   "a": "Family gross annual income below Rs 8 lakh from all sources, for the financial year before the year you apply, under DoPT's office memorandum of 31 January 2019."
+  },
+  {
+   "q": "Is a pension counted in EWS income?",
+   "a": "Yes. DoPT's FAQ of 19 September 2022 says monthly pension and family pension count, and that gross income and gross salary are used."
+  },
+  {
+   "q": "Who issues the EWS certificate?",
+   "a": "Since DoPT's office memorandum of 15 March 2024, each State Government or UT Administration decides which officers can issue it and should list them on its website."
+  },
+  {
+   "q": "What if the validity year on my EWS certificate is blank?",
+   "a": "DoPT's FAQ says the recruiter should refer it back to the issuing officer. If neither the financial year nor the validity year is written, it is a major discrepancy and may lead to rejection."
+  },
+  {
+   "q": "Do EWS candidates get age relaxation?",
+   "a": "No. DoPT's FAQ says there is no age relaxation and no extra attempts for EWS candidates. The rules for the General category apply."
+  }
+ ],
+ "sources": [
+  {
+   "label": "DoPT office memorandum No. 36039/1/2019-Estt (Res) dated 31 January 2019 on EWS reservation in central posts, with the Annexure-I Income and Asset Certificate format, as forwarded in full by the Ministry of MSME (Office Order 15/2019) on dcmsme.gov.in",
+   "url": "https://dcmsme.gov.in/employ-corner/d/Office-order-15-2-2019.pdf",
+   "checked": "2026-10-29"
+  },
+  {
+   "label": "DoPT office memorandum No. 36039/1/2019-Estt.(Res.-II) dated 15 March 2024: States and UTs decide the authorities who issue EWS Income and Asset Certificates (copy on csir.res.in)",
+   "url": "https://www.csir.res.in/sites/default/files/2024-04/modification-aws.pdf",
+   "checked": "2026-10-29"
+  },
+  {
+   "label": "DoPT FAQs on reservation for EWS in posts, No. 43011/11/2022-Estt.(Res-II) dated 19 September 2022 (copy forwarded by CSIR on csir.res.in)",
+   "url": "https://www.csir.res.in/sites/default/files/2023-05/FAQs-on-reservation-to%20EWS-in-posts.pdf",
+   "checked": "2026-10-29"
+  },
+  {
+   "label": "PIB, Ministry of Social Justice and Empowerment, reply in Parliament on EWS reservation, 5 August 2026: Articles 15(6) and 16(6), Rs 8 lakh and asset limits, no proposal to amend",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2295093&lang=1&reg=48",
+   "checked": "2026-10-29"
+  }
+ ]
+}

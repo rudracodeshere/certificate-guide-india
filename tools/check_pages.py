@@ -25,7 +25,9 @@ AI_WORDS = ["additionally", "align with", "bolstered", "crucial", "deep dive", "
             "garner", "interplay", "intricate", "meticulous", "pivotal", "showcase", "tapestry", "testament",
             "underscore", "vibrant", "seamless", "navigate the", "landscape", "in today's", "rest assured",
             "it's important to note", "it is important to note", "game-changer", "unlock"]
-HUB_SLUGS = {"privacy", "how-we-check-facts", "", "about", "maharashtra", "income-certificate", "domicile-certificate", "caste-certificate", "bihar", "karnataka", "404.html"}
+# Hub slugs come from site.json sectors, so a new sector hub is never mistaken for a guide.
+HUB_SLUGS = {"privacy", "how-we-check-facts", "", "about", "404.html"} | {
+    s["slug"] for s in json.loads((ROOT / "site.json").read_text(encoding="utf-8"))["sectors"]}
 
 
 class Page(HTMLParser):

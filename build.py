@@ -285,6 +285,8 @@ HUB_DESC = {
     "domicile-certificate": "Domicile certificate guides by state: documents, fee, the official time limit, who issues it and how to appeal if it is late. Official sources only.",
     "caste-certificate": "Caste certificate guides by state: documents, affidavits, fee, the official time limit, who issues it and how to appeal if it is late.",
     "bihar": "Bihar certificates on the RTPS portal: caste, income and residence certificate time limits, forms, validity and who hears your appeal if it is late.",
+    "uttar-pradesh": "Uttar Pradesh certificates on e-District: income, caste and domicile certificate time limits under the Janhit Guarantee Act and who hears your appeal.",
+    "ews-certificate": "EWS certificate guides: the Rs 8 lakh income rule, property limits, who issues the Income and Asset Certificate, the format and state rules we have checked.",
 }
 
 HUB_EXTRA = {

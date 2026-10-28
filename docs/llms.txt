@@ -12,6 +12,8 @@ A free, independent guide to Indian government certificates such as income and d
 - [Is my certificate late? Maharashtra Right to Services date calculator](https://rudracodeshere.github.io/certificate-guide-india/is-my-certificate-late-calculator/): Enter the date your Maharashtra income or domicile certificate application was received. See the due date and the last day to file a first appeal. Last checked 2026-10-26.
 - [Caste certificate in Maharashtra: apply, documents, fee and time limit (checked October 2026)](https://rudracodeshere.github.io/certificate-guide-india/caste-certificate-maharashtra/): Caste certificate in Maharashtra on Aaple Sarkar: INR 40 fee, documents, affidavits, the 21 vs 45 day time limit conflict, and how to appeal if late. Last checked 2026-10-27.
 - [Caste, income and residence certificates in Bihar under RTPS: time limits and appeals (checked October 2026)](https://rudracodeshere.github.io/certificate-guide-india/bihar-certificates-rtps/): Bihar caste, income and residence certificates on RTPS: 10 working days (2 for Tatkal), forms, validity, and how to appeal to the SDO or DM if late. Last checked 2026-10-28.
+- [EWS certificate for central jobs: who qualifies, who issues it, the format (checked October 2026)](https://rudracodeshere.github.io/certificate-guide-india/ews-certificate-india/): EWS Income and Asset Certificate: family income below Rs 8 lakh, land and home size limits, who issues it now, the format and mistakes that get it rejected. Last checked 2026-10-29.
+- [Income certificate in Uttar Pradesh: the 20 working day limit and how to appeal (checked October 2026)](https://rudracodeshere.github.io/certificate-guide-india/income-certificate-uttar-pradesh/): UP income certificate: the Tehsildar must issue it in 20 working days under the Janhit Guarantee Act. Who hears your appeal, the deadlines and a free template. Last checked 2026-10-29.
 
 ## Hubs
 
@@ -20,6 +22,8 @@ A free, independent guide to Indian government certificates such as income and d
 - [Domicile certificate](https://rudracodeshere.github.io/certificate-guide-india/domicile-certificate/): Who issues it, the documents, the fee and the time limit in each state we cover.
 - [Caste certificate](https://rudracodeshere.github.io/certificate-guide-india/caste-certificate/): Caste and non creamy layer certificates, state by state.
 - [Bihar](https://rudracodeshere.github.io/certificate-guide-india/bihar/): Caste, income and residence certificates applied for on the RTPS portal, with the time limits and appeals under the Bihar Right to Public Services Act, 2011.
+- [Uttar Pradesh](https://rudracodeshere.github.io/certificate-guide-india/uttar-pradesh/): Income, caste and domicile certificates on e-District, with the time limits and appeals under the Uttar Pradesh Janhit Guarantee Adhiniyam, 2011.
+- [EWS certificate](https://rudracodeshere.github.io/certificate-guide-india/ews-certificate/): The Income and Asset Certificate for the 10% EWS quota: who qualifies, who issues it and the format.
 
 ## About
 
